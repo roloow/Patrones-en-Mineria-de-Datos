@@ -33,5 +33,5 @@ Una vez instalado se deberá ingresar correr el ambiente de desarrollo, *la sigu
     pip install scipy
     pip install matplotlib
     pip install sklearn
-    pip install panda
+    pip install pandas
 ```
