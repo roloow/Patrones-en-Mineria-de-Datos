@@ -35,3 +35,15 @@ Una vez instalado se deberá ingresar correr el ambiente de desarrollo, *la sigu
     pip install sklearn
     pip install pandas
 ```
+
+* **Documentación de Clusters**
+
+Podemos encontrar todos los clusters que utilizaremos en [esta](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.cluster) página o bien, puede ir directamente a las documentaciones individuales.
+
+|Cluster | Documentación |
+|:---|:---|
+|K-Means| [Ir a la documentación](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sklearn.cluster.KMeans)|
+|Mini Batch K-Means| [Ir a la documentación](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.MiniBatchKMeans.html)|
+|DBScan |[Ir a la documentación](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN)|
+|HAC Completo (*AgglomerativeClustering - linkage: Complete*) |[Ir a la documentación](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)|
+|Ward (*AgglomerativeClustering - linkage: Ward*) |[Ir a la documentación](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)|
