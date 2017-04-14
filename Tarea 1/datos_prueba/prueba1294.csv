@@ -1,0 +1,1295 @@
+brewery_id,brewery_name,review_time,review_overall,review_aroma,review_appearance,review_profilename,beer_style,review_palate,review_taste,beer_name,beer_abv,beer_beerid
+10325,Vecchio Birraio,1234817823,1.5,2,2.5,stcules,Hefeweizen,1.5,1.5,Sausa Weizen,5,47986
+10325,Vecchio Birraio,1235915097,3,2.5,3,stcules,English Strong Ale,3,3,Red Moon,6.2,48213
+10325,Vecchio Birraio,1235916604,3,2.5,3,stcules,Foreign / Export Stout,3,3,Black Horse Black Beer,6.5,48215
+10325,Vecchio Birraio,1234725145,3,3,3.5,stcules,German Pilsener,2.5,3,Sausa Pils,5,47969
+1075,Caldera Brewing Company,1293735206,4,4.5,4,johnmichaelsen,American Double / Imperial IPA,4,4.5,Cauldron DIPA,7.7,64883
+1075,Caldera Brewing Company,1325524659,3,3.5,3.5,oline73,Herbed / Spiced Beer,3,3.5,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1318991115,3.5,3.5,3.5,Reidrover,Herbed / Spiced Beer,4,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1306276018,3,2.5,3.5,alpinebryant,Herbed / Spiced Beer,2,3.5,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1290454503,4,3,3.5,LordAdmNelson,Herbed / Spiced Beer,3.5,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1285632924,4.5,3.5,5,augustgarage,Herbed / Spiced Beer,4,4,Caldera Ginger Beer,4.7,52159
+163,Amstel Brouwerij B. V.,1010963392,3,2,3,fodeeoz,Light Lager,2.5,2.5,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1283154365,5,5,4,MadeInOregon,Herbed / Spiced Beer,4,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1277557990,4,4,4,rawthar,Herbed / Spiced Beer,3.5,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1275779250,4,4.5,3,Halcyondays,Herbed / Spiced Beer,2.5,3,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1273109020,3.5,4,3,RangerClegg,Herbed / Spiced Beer,3,4,Caldera Ginger Beer,4.7,52159
+1075,Caldera Brewing Company,1316025612,3,3,2.5,Beerandraiderfan,Oatmeal Stout,3,3,Caldera Oatmeal Stout,7.2,10789
+1075,Caldera Brewing Company,1103502339,2,1.5,2.5,RedDiamond,Oatmeal Stout,2.5,2,Caldera Oatmeal Stout,7.2,10789
+1075,Caldera Brewing Company,1062311123,4,3,4,beerguy101,American Pale Lager,4,4,Caldera OBF 15,5.6,12386
+163,Amstel Brouwerij B. V.,1010861086,2.5,3,3,jdhilt,Light Lager,2,2,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1325478004,4.5,4.5,3,UCLABrewN84,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1325360812,4,4,4,zaphodchak,Rauchbier,3,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1322506304,4,4.5,4,Tilley4,Rauchbier,3.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1320494397,4.5,5,4.5,mikedrinksbeer2,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1320140421,4,4.5,4,dbmernin83,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1319847514,4.5,4.5,4,titosupertramp,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1318802642,5,5,3.5,optimator13,Rauchbier,3.5,5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1318290101,4.5,4.5,4,Blakaeris,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1318289482,4.5,5,4,bashiba,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1316405909,4.5,4.5,3.5,Klym,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1315696563,4.5,4.5,4,flexabull,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+163,Amstel Brouwerij B. V.,1002109880,3,2,2,xXTequila,Light Lager,2,3,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1315014054,5,4.5,4,Bung,Rauchbier,4,5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1314752229,4,4,4.5,oberon,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1312403394,4.5,4.5,4,t420o,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1312162337,4,4,4,DarthKostrizer,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1312070406,4,4,3,MrVonzipper,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1311558510,3,4.5,3,Beerandraiderfan,Rauchbier,2,3,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1309310508,4,4.5,4.5,TheWhiskerReview,Rauchbier,4,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1307850875,3.5,3.5,4.5,Elimination,Rauchbier,4,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1283136243,4.5,5,3.5,Jason,Rauchbier,4.5,4.5,Rauch Ür Bock,7.4,58046
+163,Amstel Brouwerij B. V.,988202869,3,3,3,Brent,Light Lager,2,2,Amstel Light,3.5,436
+1075,Caldera Brewing Company,1306128988,4.5,4,4,DoubleJ,Rauchbier,4.5,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1305926255,5,4.5,3.5,Deuane,Rauchbier,4,5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1305856857,4,4,4,Mattybeerguy,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1305469906,4,4,3.5,micromaniac129,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1305329412,3.5,5,3.5,beagle75,Rauchbier,3.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1302401846,4,4,3.5,northyorksammy,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1301454480,4.5,4,4,vette2006c5r,Rauchbier,4.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1301023832,4,3.5,4,EvanEngelstad,Rauchbier,3,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1300936020,4.5,4,4,djeucalyptus,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1300237348,4,4,3.5,ccrida,Rauchbier,4.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1297290394,3.5,3.5,4,cooch69,Rauchbier,3.5,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1291959798,3.5,4,4,DogFood11,Rauchbier,3.5,3.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1291254447,4,4.5,4,brewandbbq,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1286839186,3.5,3.5,4,Fatehunter,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1286679032,4.5,4.5,3,hopsbreath,Rauchbier,4.5,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1285545349,4.5,4.5,3.5,augustgarage,Rauchbier,4,5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1284135689,4.5,4.5,4,Slatetank,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1281495119,4,4,4,Proteus93,Rauchbier,4,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1281303716,4,4.5,4,SShelly,Rauchbier,4,4.5,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1277846123,4,4.5,4,zoso1967,Rauchbier,3.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1275779614,4,4.5,3.5,Halcyondays,Rauchbier,3.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1273021280,4,4.5,3.5,msubulldog25,Rauchbier,4.5,4,Rauch Ür Bock,7.4,58046
+1075,Caldera Brewing Company,1251327677,4,3.5,3.5,NJpadreFan,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1250928902,2.5,3,3.5,vacax,American Pale Ale (APA),3.5,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1249866208,4,3.5,4,d0ggnate,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1310259440,4.5,4.5,4.5,Cyberkedi,American Porter,4.5,5,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1249847121,4.5,3.5,4,babyhobbes,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1249556277,4.5,3.5,4,mdagnew,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1249347819,4,3.5,4.5,mikesgroove,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1248223105,4,3.5,4,hdofu,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1248142715,3.5,4,3.5,argock,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1247611689,3.5,4,4,Seanibus,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1246913078,5,4,4.5,GratefulBeerGuy,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1208019450,3.5,4,3.5,MuenchenerKindl,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1246835039,4.5,4,4,PDXHops,American Pale Ale (APA),4.5,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1245632401,4,4,4,IMincedTheKing,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1245007399,4,3.5,4,Goliath,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1243386855,4,3.5,3.5,zeff80,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1243111472,4,3.5,4,akorsak,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1242695740,4,3,3.5,wchesak,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1242591041,3.5,3.5,3.5,beer2day,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1240194272,4,3.5,2.5,bfields4,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1239404031,4,4,4,dyan,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1238806680,3.5,3.5,4,Monkeyknife,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1238102425,4.5,4,4,HopDerek,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1237995185,4.5,4,4.5,djeucalyptus,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1235940573,5,3.5,4,mtrentm,American Pale Ale (APA),4,5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1235869779,5,4,4.5,maximum12,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1235799776,3.5,4,3.5,blackie,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1234402493,4,3.5,3.5,JayQue,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1234301164,4.5,3.5,3.5,bbothen,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1234289072,4,4,4,Kegatron,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1233532055,4,4,4,CrellMoset,American Pale Ale (APA),4.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1233527792,3.5,3,3.5,beerman21,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1276458339,4,4,4,joepais,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1233438861,4,4,4,BeerSox,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1232762866,3.5,4,3.5,Proteus93,American Pale Ale (APA),3,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1231859071,3.5,3.5,3.5,hopdog,American Pale Ale (APA),3,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1231644832,4,3.5,3.5,gford217,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1228286719,4,3,4,thehand,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1227368772,4.5,4,4,GbVDave,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1222211380,3,3,3.5,dfitch81,American Pale Ale (APA),3,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1220215328,3.5,3.5,4,RJLarse,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1275798498,4,4,4,Beejay,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1219023488,4.5,4.5,4.5,SurlyDuff,American Pale Ale (APA),4.5,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1218509484,4,4,4,Wetpaperbag,American Pale Ale (APA),3,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1217377327,4.5,4,4,largadeer,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1216870136,3.5,4.5,4,cswhitehorse,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1216764325,4,4,3.5,elniko,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1215737527,4.5,4,4,deltatauhobbit,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1215478984,4,4,4.5,woemad,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1215388875,4.5,4,3.5,czechsaaz,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1210468644,4,4,4.5,Wasatch,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1208444405,4.5,4,3.5,oberon,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1310518783,4,4,4.5,Urbancaver,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1207375871,3.5,4,5,ccrida,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1206403506,4.5,3.5,3,brentk56,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1206326545,5,4,3.5,BeerZack,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1205302160,4,3.5,3.5,russpowell,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1204256003,4,3.5,4,Spikester,American Pale Ale (APA),3,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1199158664,3,2.5,3,Dubbercody,American Pale Ale (APA),3,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1198817492,3,4,3.5,ChainGangGuy,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1190043490,4.5,4,4.5,Vancer,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1188970905,4.5,3.5,3.5,ghostwalker,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1186867975,4,4,4.5,udubdawg,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1275439462,4,3.5,2.5,Bfarr,American Pale Ale (APA),3,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1182308568,4,4,4,cburian,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1181450867,4.5,4,4,flexabull,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1177638920,4,3,3.5,mnwags,American Pale Ale (APA),2.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1170714306,4.5,4,3.5,NeroFiddled,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1160699043,5,4,3.5,IntriqKen,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1160265839,3.5,4,3,JoshD,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1157665307,4,3.5,4,lackenhauser,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1154568582,4.5,4,4,kgotcher,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1154067787,4.5,4,3,MLegendre,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1148947298,3,4,4,freed,American Pale Ale (APA),3,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1147643598,4,4,3.5,ddarden,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1147583357,4,4,3.5,ElGordo,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1132082651,4.5,4.5,4.5,BuckeyeNation,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1124731747,4,3.5,4,Reidrover,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1326212716,4,4,4,BeerLover99,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1322517349,3.5,4,3.5,syrupjoe,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1321322911,4,4.5,4,BrewerB,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274928281,4,4,3.5,robwestcott,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1320470970,3.5,3.5,4.5,vande,American Pale Ale (APA),4,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1320422191,4,3.5,4,ColForbinBC,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1318247779,3,2.5,3.5,harrymel,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1316727048,4,3.5,4.5,woosterbill,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1315501843,4,4,4.5,ReelBigwigFish,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1315424611,4,4,4,cbarrett4,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313814599,4,3.5,4,chodinheaven,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313539369,3.5,3.5,3.5,Beerandraiderfan,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313538701,4,3.5,4.5,MrVonzipper,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274919895,4,4,4,tempest,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313344297,3.5,3.5,3.5,witster18,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1313205214,4,3.5,3.5,jeff1973,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1312859109,4,4,4,Duff27,American Pale Ale (APA),3.5,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1311635079,3,3,4,Phelps,American Pale Ale (APA),4,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1310596490,3.5,3.5,4,mgbickel,American Pale Ale (APA),3,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1309143059,3,3.5,4,Jimmys,American Pale Ale (APA),3.5,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1307926374,4,4,4,Scotchboy,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1307228809,3,3.5,4,TheGordianKnot,American Pale Ale (APA),3,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1306801312,3.5,3.5,3.5,loren01,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1305443533,3.5,3.5,3.5,rootbeerman,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1304919405,4,4,4.5,corby112,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1304775252,3.5,3.5,4,inlimbo77,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1302318720,4.5,5,4.5,youradhere,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1299616654,2.5,3.5,4,Thorpe429,American Pale Ale (APA),2,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1299469158,4,3.5,4,FosterJM,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1298677831,4.5,2,2,bobhits,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1298604088,3.5,3.5,3.5,u2carew,American Pale Ale (APA),3,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1296947205,3,3.5,4,beerman207,American Pale Ale (APA),3,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1286931306,3.5,4,4,hawks10,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1296194634,3.5,3.5,4,BEERchitect,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1292368869,4,3.5,4,msubulldog25,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1291082909,4,3.5,3.5,climax,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1289995470,4,4,5,AEK,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1288306896,3,3,3,Tilley4,American Pale Ale (APA),2.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1288229762,4.5,4.5,4,wcudwight,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1288124891,4,3,4,kzoobrew,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1286887230,4.5,4,4.5,dudemuskie,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1286770715,4,4,4,elgiacomo,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1285123300,4,3,4,ArrogantB,American Pale Ale (APA),4,2.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1284070441,4,4,4,stephens101,American Pale Ale (APA),3.5,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1282616446,3.5,3.5,3.5,StaveHooks,American Pale Ale (APA),5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1281751758,3.5,3.5,4,GarrettMD,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1281407690,4,4,4,barleywinefiend,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1281230213,4.5,4,4,merlin48,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1280773118,3.5,3,4,jampics2,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1258511938,5,5,3,cjever19,American Pale Ale (APA),5,5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1280377901,5,3.5,4,ThreeWiseMen,American Pale Ale (APA),5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1280121552,4,3,4,philbertk,American Pale Ale (APA),3,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1279898459,4.5,4,4,Brent,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1279603940,3,3.5,3.5,Bubba83,American Pale Ale (APA),4,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1278462434,4,4,4,BeerAdvocate,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1278094363,4,3.5,4,mikereaser,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1277592425,4,3,4,jkrich,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1277176387,4.5,3.5,3.5,SpdKilz,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1277173621,4,3.5,3.5,barleywinefiend,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274582920,4.5,4,4,indiapaleale,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274535816,4.5,4,4,Cresant,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1274399540,3,4,3.5,Bitterbill,American Pale Ale (APA),4,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1273493811,4.5,3.5,3.5,hosehead83,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1271993282,4,4,4,kshankar,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1269722488,4.5,4,4.5,bump8628,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1268076225,4,3.5,4,WesWes,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1267839055,3,3,2.5,beertunes,American Pale Ale (APA),2.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1266473259,4,4,4,ClockworkOrange,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1266280281,4,3.5,5,organicbrewer,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1265831510,5,4,4,onix1agr,American Pale Ale (APA),4.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1265696374,4,3.5,4,dedrinker,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1264269458,4.5,4.5,4,woodychandler,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1264041225,3.5,3.5,3,therica,American Pale Ale (APA),3.5,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1262623366,4.5,3.5,3.5,rfgetz,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1262485655,4,3.5,4,JohnGalt1,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1261976212,5,4,4,womencantsail,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1260202692,4.5,4.5,4,ckeegan04,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1258953381,4.5,3.5,4,WeisGuy,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1256089931,4.5,3,4,Rmassimiano,American Pale Ale (APA),4,5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1255564836,4.5,4,4,droomyster,American Pale Ale (APA),4,4.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1254457053,4,3.5,3.5,flagmantho,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1254185699,4,3,4,snaotheus,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1254099708,4.5,4,4,RoyalT,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1253889382,3.5,4,4,Slatetank,American Pale Ale (APA),3.5,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1252549074,4,4,4,philbe311,American Pale Ale (APA),4,3.5,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1252535262,4,3.5,3.5,Deuane,American Pale Ale (APA),4,4,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1251925734,3.5,3,4,Halcyondays,American Pale Ale (APA),3.5,3,Caldera Pale Ale,5.5,25414
+1075,Caldera Brewing Company,1304977550,4,4,4,CaptainIPA,American Porter,4.5,4,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1299734664,4.5,3.5,3,anchordrinker,American Porter,5,4.5,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1270238942,4.5,4,4,spointon,American Porter,4,4.5,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1265775166,3.5,3.5,4,slaintemhor,American Porter,3.5,3.5,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1254977926,5,4,4.5,Reidrover,American Porter,4,4,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1153680639,4.5,3.5,4.5,Gavage,American Porter,4.5,4,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1113805689,3.5,3.5,3.5,Thrasher,American Porter,3.5,3,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1100743845,2.5,2.5,3,RedDiamond,American Porter,2.5,3,Pilot Rock Porter,5.8,10788
+1075,Caldera Brewing Company,1326071409,3.5,3.5,4,BilbosNuts,Belgian Strong Dark Ale,2,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1321407186,3,4,2,n2185,Belgian Strong Dark Ale,3,2.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1311736668,4,4,4,Knapp85,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1321070530,3.5,3.5,3.5,russpowell,Belgian Strong Dark Ale,3,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1320555535,4,3.5,4,mjyoung,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1319921102,3.5,3.5,4,phichifiji00,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1319858005,3.5,3.5,4,mgbickel,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1317515953,4,3,4,vande,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1317093500,3,3.5,4,oline73,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1315280892,4.5,4,4,pitasoup,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1314576950,4,3.5,3.5,match1112,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1313275008,3.5,3,3.5,Siggy125,Belgian Strong Dark Ale,3.5,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1311901246,3.5,4,4,beer2day,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1309577754,4,3.5,4,sgsmfdoom,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1309227572,4,3,4,Nashvillain,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1304116900,4,4,4,CHILLINDYLAN,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1300995057,4,4,4,emmasdad,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1300226447,3.5,4,3.5,Bendurgin,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1296739609,3.5,3,4,BuckeyeNation,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1294716213,3.5,3.5,3.5,BeerAdvocate,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1292542146,4,4,4,GarthDanielson,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1272945129,4,4,4,Akfan,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1290310276,4,4,3.5,chumba526,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1289007164,3,2.5,4,Xul,Belgian Strong Dark Ale,3.5,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1287556131,3.5,2.5,3.5,Docer,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1283849227,2,2.5,4,rand,Belgian Strong Dark Ale,2.5,2,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1283632391,2.5,2,2.5,Arbitrator,Belgian Strong Dark Ale,1,2.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1283402291,3,3.5,3.5,ccrida,Belgian Strong Dark Ale,3,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1281917733,4,4,4,brewandbbq,Belgian Strong Dark Ale,4,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1324238653,4,4,4,coldriver,American IPA,4,4.5,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1281017724,3,4,3.5,GradyS1,Belgian Strong Dark Ale,2.5,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1278714049,3,3.5,4,meatyard,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1277183331,4,4,4,Mora2000,Belgian Strong Dark Ale,4,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1277179584,5,4,4,GRG1313,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1276135287,4,3.5,4.5,zoso1967,Belgian Strong Dark Ale,4,3,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1275892159,3.5,3.5,4.5,DeanMoriarty,Belgian Strong Dark Ale,3.5,4,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1275778651,3.5,3,4,Halcyondays,Belgian Strong Dark Ale,3.5,3.5,Vas Deferens Ale,8.1,58920
+1075,Caldera Brewing Company,1103668195,3,3,3,RedDiamond,American Stout,4,3,Cauldron Espresso Stout,,21241
+1075,Caldera Brewing Company,1314593255,4.5,4,4,Derek,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1325371643,4,4,3.5,suncrust,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1324873502,4,4,4,dc55110,Russian Imperial Stout,3.5,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1321759929,4,3.5,3,snaotheus,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1320011799,4,4,4,oberon,Russian Imperial Stout,4.5,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1319912250,4,4,2.5,russpowell,Russian Imperial Stout,4.5,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1319087212,4,4,4.5,julian,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1318908990,4.5,4,4,Halcyondays,Russian Imperial Stout,5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1318153805,4.5,4,4.5,UCLABrewN84,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1316051590,3.5,3,3.5,Beerandraiderfan,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1315044032,4,4,4.5,tdm168,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1313553891,4.5,4,4,jeff1973,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1312575615,5,4.5,4.5,Tilley4,Russian Imperial Stout,4.5,5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1310693953,5,5,5,Cyberkedi,Russian Imperial Stout,5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1305846083,4,4,4,onix1agr,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1305776840,4.5,4,4.5,oglmcdgl,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1304910259,4,3,3.5,youradhere,Russian Imperial Stout,3,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1301436909,4,4,4,Knapp85,Russian Imperial Stout,3.5,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1301108461,4.5,4.5,4.5,kitty66,Russian Imperial Stout,4,5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1106529693,4.5,4.5,4.5,Valevapor,American Amber / Red Ale,4,4.5,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1301032260,4.5,4,4,lowendfrequency,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1299090515,3,4,3.5,harrymel,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1297663058,3.5,4,4,Vdubb86,Russian Imperial Stout,4,3.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1297637051,3.5,3.5,4,TMoney2591,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1296103099,4,3.5,4.5,vkv822,Russian Imperial Stout,4,3.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1295916750,4,4,4,barleywinefiend,Russian Imperial Stout,4,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1267669241,4.5,4,4,ccrida,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1233976509,4.5,4,4,msubulldog25,Russian Imperial Stout,4.5,4.5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1104119630,3,4,3.5,GreenWBush,American Amber / Red Ale,3,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1232517923,5,4.5,4.5,bitterthebetter,Russian Imperial Stout,5,5,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1202674258,4,4,4.5,RedDiamond,Russian Imperial Stout,4,4,Old Growth Imperial Stout,8.8,20818
+1075,Caldera Brewing Company,1316030136,3.5,3.5,3.5,Beerandraiderfan,American Amber / Red Ale,3.5,3.5,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1190326149,4,4,4,mcallister,American Amber / Red Ale,4,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1174767562,4.5,4.5,4,ccrida,American Amber / Red Ale,4,4.5,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1171415576,4,4,4,flexabull,American Amber / Red Ale,4,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1119304996,4,4,3,Crotor,American Amber / Red Ale,3.5,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1111803322,4,4,4,unklesyd,American Amber / Red Ale,4.5,4.5,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1103510937,4.5,4.5,3.5,RedDiamond,American Amber / Red Ale,4,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1060927934,4,4.5,4.5,freed,American Amber / Red Ale,4,4,Dry Hop Red,5.7,10786
+1075,Caldera Brewing Company,1296524914,4,4,4,inthebeeraisle,American Strong Ale,4,4,Southside Strong,7,10794
+1075,Caldera Brewing Company,1259026211,4.5,4,4,ElGordo,Märzen / Oktoberfest,4,4,Caldera Märzen,6.3,54330
+1075,Caldera Brewing Company,1313637622,3,3,4,isualum12,American Adjunct Lager,2,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1294716177,4,4,4,BeerAdvocate,American Adjunct Lager,4,4,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1284525849,4.5,3,3.5,JohnGalt1,American Adjunct Lager,3.5,3.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1281229651,4,3.5,3.5,merlin48,American Adjunct Lager,3.5,3.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1279762002,3,3.5,3.5,philbe311,American Adjunct Lager,3,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1279679219,3.5,3,3,SpdKilz,American Adjunct Lager,2.5,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1278993362,3,3,3,DeanMoriarty,American Adjunct Lager,3,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1277081906,4.5,3.5,3.5,zoso1967,American Adjunct Lager,3,3.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1275777906,3.5,2.5,3,Halcyondays,American Adjunct Lager,4,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1275771652,5,4,4,Wetpaperbag,American Adjunct Lager,4,4.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1274579229,2,2.5,2,IronLover,American Adjunct Lager,2.5,2.5,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1270908226,4,3,2,Reidrover,American Adjunct Lager,2.5,3,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1270706342,4.5,3.5,4,Spikester,American Adjunct Lager,3,4,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1267230079,1,1.5,1,kevinmkirk,American Adjunct Lager,1,1,Lawnmower Lager,3.9,20817
+1075,Caldera Brewing Company,1324042981,3,3.5,3,notchucknorris,American Blonde Ale,2,3,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1296875377,4,4,4,Mora2000,American IPA,4,4,Caldera IPA,6.1,10784
+1075,Caldera Brewing Company,1322529598,4,4,4,brianairb85,American Blonde Ale,3.5,4.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1313491119,1.5,2,3,jmarsh123,American Blonde Ale,2,1.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1312168951,3,3.5,3.5,BDTyre,American Blonde Ale,3,3.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1310388796,1.5,1.5,3,TheGordianKnot,American Blonde Ale,2,1.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1284083587,4,3,4.5,hippityhops85,American Blonde Ale,3,3.5,Caldera Rose Petal (Kettle Series),6.7,61427
+1075,Caldera Brewing Company,1282984478,3.5,3.5,3.5,JohnGalt1,American Blonde Ale,3.5,3.5,Caldera Rose Petal (Kettle Series),6.7,61427
+Ale),9,20746
+394,Stoudts Brewing Co.,1146179787,4.5,4.5,4,Mitchster,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1144460660,4,4,4,edchicma,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1143694470,3.5,4,3,Zorro,Tripel,3,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1143501640,3.5,4,4,CJfromPhilly,Tripel,3,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1143401564,3,4,3.5,crwills,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1143259204,3.5,4.5,4,ypsifly,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1140838860,3.5,4,4,Drew966,Tripel,3,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1139535484,4,3,3,brewbubba,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1138597402,4,3.5,4,blitheringidiot,Tripel,4.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1138241961,4,4,4,Hautacam,Tripel,4.5,5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1137169014,3.5,4,4,ViveLaChouffe,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1136924016,3.5,4,3.5,bigdeuce,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1136597337,4,4,4,tgbljb,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1136497594,3,3,3.5,aquatonex,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1136189453,4,3,3.5,IceAce,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1136158117,4,4,3.5,jdhilt,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1135393336,3.5,3,4,JoshD,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+2312,Tenaya Creek Brewery,1319467856,4,3.5,4,hosehead83,American IPA,4,4,Tenaya Creek Hop Ride IPA,7.2,63770
+394,Stoudts Brewing Co.,1134960388,4,3.5,3,budsboy,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1134578048,3,3.5,4,BuckeyeNation,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1133963015,1.5,3,2.5,WVbeergeek,Tripel,2,2,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1133047737,2.5,2.5,3.5,mrasskicktastic,Tripel,3,2,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1132903645,4.5,3.5,5,Phatz,Tripel,3.5,2.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1132584716,4,4.5,4,jaluria,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1132098343,3,3,3,NJpadreFan,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1131677251,3.5,3.5,4,orbitalr0x,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1130726303,3,4,3.5,dgallina,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1238367958,4,4,4,indiapaleale,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1129600486,2.5,4,3.5,Px2GrafX,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1128566238,4,4.5,4.5,Stingray5,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1127870763,3.5,3.5,3.5,beermanbrian,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1126839693,3.5,3.5,4.5,UncleFlip,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1126116398,4,4,3.5,jakester,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1125982838,4,3.5,4,dirtylou,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1124782840,2,3.5,4,ommegangpbr,Tripel,2,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1299713764,4,4,4.5,spartanfan,Tripel,4.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1123698458,3.5,3,3,bditty187,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1123189543,3.5,4,4,Hibernator,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1121916604,4.5,4.5,4,Fish113d,Tripel,3,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1121393894,3.5,3,3.5,assurbanipaul,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1121345356,4,4.5,3.5,kegerator,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1120201643,4,4,4,blackie,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1119934982,3.5,4,4,BeerPanther,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1119925633,3.5,3.5,3,RoyalT,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1119314783,4,4,3.5,goodbyeohio,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1118369485,4,4,4,northyorksammy,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1118284133,3.5,3,3,Suds,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1116592995,4,4.5,4,weeare138,Tripel,4.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1114648398,4,3.5,4,Zraly,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1114341925,4,4,4,feloniousmonk,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1112446247,4,4,4,Truh,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1109048825,4,5,4,cooter,Tripel,4.5,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1297707791,4,3.5,3.5,CuriousMonk,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1107376846,3.5,3.5,4,foXXtail,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1106964732,3,3.5,3.5,Billolick,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1106780374,4,4,3.5,woodychandler,Tripel,3,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1106707960,1,1.5,3.5,krberg,Tripel,3,1.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1105767165,3,4,4.5,JISurfer,Tripel,3,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1105377295,3,3,4,Todd,Tripel,3,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1105374945,4,4.5,4,soulfly967,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1103585819,4,4,4,GreatPondBrewer,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1297544552,3,3.5,3.5,PBoegel,Tripel,3,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1295920590,3.5,4,3,onix1agr,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1102361973,4,4,4,99bottles,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1312135340,3.5,3.5,3.5,thain709,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1311901929,3.5,3,4,TheWhiskerReview,Tripel,3,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1310676869,3.5,4,4,BB1313,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1309893278,3.5,3,3.5,goblue3509,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1309662325,3.5,3.5,3.5,Rifugium,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1308275241,4,3.5,3,atr2605,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1305310202,4,3,4,jayhawk73,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1305167557,4,4,4,Andreji,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1303053582,3,3.5,3,AlCaponeJunior,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1301531686,4,4,3,SpicyHawaiian,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1101878098,4,4.5,4,santoslhalper,Tripel,3,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1101751147,4,4,4,heidelbeerg,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1101317982,3,3,3.5,tenant,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1300659556,4,3.5,4,mikesgroove,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1300499895,5,4,4,tbrown4,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1279834541,3.5,3.5,3.5,junjun,Tripel,3,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1294793982,2.5,3,3.5,brentk56,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1293829897,3.5,3.5,3,Bouleboubier,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1292743264,3.5,4,4,bucklemyshoe,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1291766497,3.5,3,3.5,smakawhat,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1291581438,4.5,4,3.5,Thanby,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1291405017,4,3.5,3.5,Chaney,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1289925524,3.5,3.5,4.5,jlandis,Tripel,3.5,2.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1279581153,3.5,3.5,4,SuperSpy,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1288659210,4,4,4,flagmantho,Tripel,4.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1287354131,3,3,3.5,paulozanello,Tripel,3,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1286310013,3.5,3.5,4.5,BeerCon5,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1285462527,3.5,3,4,emsroth,Tripel,4.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1285133560,4.5,4,3.5,droomyster,Tripel,5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1283481594,3,3.5,4,Nordicsk8er,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1282708238,4.5,4,3.5,yesyouam,Tripel,4.5,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1282603189,3,4,3,kbutler1,Tripel,4,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1281488016,4.5,4,4,hdofu,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1281306574,3.5,3,4,alehead87,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1279840598,3.5,3.5,3.5,mustinsmitty,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1276744537,3.5,4,3.5,cpetrone84,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1274237272,4,4,4,drtth,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1273350909,4,3.5,4,WanderingFool,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1272936630,3,4,3.5,klkatz,Tripel,3,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1272767856,2.5,3.5,3.5,jonziefle,Tripel,2.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1272734613,2.5,2.5,3,Throckmorton,Tripel,2.5,2.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1271469850,4,3.5,4,pwoody11,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1269910458,4,4.5,3.5,nukem5,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1269765436,3.5,3.5,4.5,Stunner97,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1269052391,3,4,3,rwdkosak,Tripel,4.5,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1268622561,3.5,3.5,3.5,JayQue,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1268319064,3.5,3.5,3.5,rhoadsrage,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1267411930,4,3.5,4.5,gromis,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1266767794,3.5,4,3.5,tone77,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1266531836,4.5,3.5,3.5,bgildea,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1266379065,3,4,4,confer,Tripel,4,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1265582932,3.5,4,3.5,rustymoore,Tripel,3,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1263265637,3.5,4,4,tuckevalastin,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1262667735,5,4,4.5,BorntoLate86,Tripel,4.5,5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1250452357,3,3,3.5,BeerBelcher,Tripel,3,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1262406262,4,4,4.5,adamette,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1261877326,4,4,4,cosmicevan,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1259516478,4,4,3.5,m1ked,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1257906451,3.5,3.5,4,BeerFMAndy,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1254794796,4,4,4,sliverX,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1254523214,4,4.5,4.5,jwhancher,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1254031494,3,3.5,4,ChainGangGuy,Tripel,3.5,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1252783814,3,3.5,4,kingcrowing,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1248489063,4.5,4.5,4.5,beachbum1975,Tripel,4.5,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1247019641,4,3.5,4,Cyberkedi,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1246922898,4.5,4,3.5,billybob,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1245722949,3,3.5,4,Lexluthor33,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1244162578,3,4,3.5,flexinwext,Tripel,4,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1243932109,3.5,4,2.5,angelmonster,Tripel,3,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1243197645,4,4,4,JoeyBeerBelly,Tripel,4,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1242835926,4,4,4.5,PhillyStyle,Tripel,3.5,4,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1242525860,4,4,4,beachian,Tripel,3.5,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1242019924,3,3.5,3.5,gobias,Tripel,3.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1241121012,4,4,4,LauraAlberts,Tripel,4,4.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1239156378,3,4,2.5,Lambstrong,Tripel,2,3,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1238305567,3,3,3.5,goatgoat,Tripel,2.5,3.5,Stoudt's Triple (Belgian Abbey-Style Ale),9,20746
+394,Stoudts Brewing Co.,1309231885,3.5,3,4,Rifugium,American Porter,3.5,3.5,Chocolate Chocolate Orange Porter,7,70510
+394,Stoudts Brewing Co.,1321106394,3,3.5,4,CraftBeerTastic,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1314636905,2.5,2.5,4,kingcrowing,American Amber / Red Ale,2.5,2.5,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1309662832,3.5,3.5,4,Rifugium,American Amber / Red Ale,3.5,3.5,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1300926285,4,4,4,bgildea,American Amber / Red Ale,3.5,3.5,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1300658967,4,4,4,mikesgroove,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1299289223,4.5,3.5,4.5,Morey,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1299044732,4,3.5,4.5,mikereaser,American Amber / Red Ale,4,3.5,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1295574468,4,4,4,WesWes,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1294660970,3.5,4,4,thain709,American Amber / Red Ale,4,3.5,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1293908999,3.5,3.5,4,tone77,American Amber / Red Ale,3.5,3.5,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1293332554,3.5,3.5,3.5,Tifore,American Amber / Red Ale,3.5,3.5,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1293295453,4.5,4.5,4,mempath,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1292893257,4,3.5,4,TheHoppiest,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1292381568,4,2.5,4,bamadog,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1292297769,3.5,4,3.5,russwbeck,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1291512584,4,4,4,foureyedgeek,American Amber / Red Ale,4,4,Stoudt's Winter Ale (2010-2011),6,64129
+394,Stoudts Brewing Co.,1271160614,4,3.5,4,avalon07,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1271019162,4.5,3,4.5,oberon,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270997900,4,4,4,confer,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270958067,4,3.5,4,Brad007,Kölsch,3.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270943731,4,3.5,3.5,bob3701,Kölsch,3.5,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270815647,3,2.5,3.5,matty,Kölsch,3,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270683363,5,4,4.5,FatSean,Kölsch,4.5,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270606148,4,3.5,4,ZeroSignal,Kölsch,3.5,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270604569,4.5,4,4,neenerzig,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270563325,4.5,4,4,Slatetank,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270508338,4.5,4,3.5,wedge,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270433983,4,3.5,4,tempest,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270249986,4.5,4,4,DNICE555,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270244515,4.5,4,5,jlindros,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1270037649,4,3.5,3.5,Natural510,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1269890874,5,4,4,jwjon1,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1269728527,4.5,4,4,JoeyBeerBelly,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1269698645,4,3,3,tone77,Kölsch,3,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1269561478,4,4,4,WakeandBake,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1269344360,4.5,4,4.5,Reagan1984,Kölsch,4.5,4.5,Karnival Kolsch,4.8,56453
+140,Sierra Nevada Brewing Co.,1301965532,3.5,2.5,4,rdilauro,Dubbel,3.5,3.5,Ovila Abbey Dubbel,7.5,67106
+394,Stoudts Brewing Co.,1269036369,4.5,4,4.5,jwhancher,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1268680727,3.5,3,3.5,rfgetz,Kölsch,3.5,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1268307809,4.5,4,4,DIM,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1268261150,4.5,4,4,sinistrsam,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1268188172,4.5,3.5,4,travduke,Kölsch,3.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1267238184,4.5,4,3.5,bbeane,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1315337019,4.5,4,4.5,Brenden,Kölsch,4.5,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1313810587,3,3.5,3,stewart124,Kölsch,3.5,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1313468505,4.5,4.5,4.5,StaEva,Kölsch,4.5,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1312854962,3.5,3,3.5,ummswimmin,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1312422138,4,4,4,bum732,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1312310967,3.5,3,3.5,Jenkster4,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1311048196,4,3.5,4,MacQ32,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1310070063,4,4,4,Neffbeer,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1309662625,4.5,4,4.5,fx20736,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1308359472,3,3,3,KajII,Kölsch,3,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1308004711,3.5,3.5,4,beerthulhu,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1307922031,4,4,4.5,ColdPoncho,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1307763543,3.5,3,3.5,Knapp85,Kölsch,3.5,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1307576765,4,4.5,4,Trambo,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1307322143,4,4,4.5,ngeunit1,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1306885350,3.5,3.5,3.5,therica,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1306865419,4,4,4,RonfromJersey,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1306239786,4,4,4,WesWes,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1306012097,3.5,3.5,3.5,JednoPivoProsim,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1305760687,3.5,3.5,3,CJfromPhilly,Kölsch,3,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1304967095,3,3,3,Rifugium,Kölsch,3,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1304383806,4,3.5,3.5,Franz4,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1303674972,3,4,4,burkyburk,Kölsch,3,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1303670018,2,1.5,4,timuel,Kölsch,3,1.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1303001150,4.5,4.5,3.5,WVRadar,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1302839580,4,4.5,4,MicroBeerMan1980,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1302570546,4,3.5,4,Jimmys,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1302096579,3.5,3.5,4,OWSLEY069,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1302049807,4,3.5,4,Chaney,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1301877355,4,3.5,4,OnThenIn,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1301267561,4.5,4,4,schoolboy,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1301150978,4.5,4,4,Hojaminbag,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1300942881,4,4,4.5,Khazadum,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1300891501,4.5,4,4,NeroFiddled,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1280285279,4,4,4.5,Kendo,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1300659825,3.5,3,3,mikesgroove,Kölsch,3,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1300653725,3,3,4,TurdFurgison,Kölsch,3,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1300489237,4,4,4.5,jkot79,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1300423900,4,4,4,Stinkypuss,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1299812373,4,4,4,JunkYardJake,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1299810111,4,3.5,3.5,victory4me,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1299640548,4,4,4.5,Buggies,Kölsch,3.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1299640287,4,3.5,3.5,Phelps,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1299561688,4,3.5,3.5,foogerd,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1299432034,3.5,3.5,4,Gambrinus1184,Kölsch,3.5,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273107804,4.5,3.5,4,chcfan,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1298087050,4.5,4.5,4,WVbeergeek,Kölsch,4.5,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1297721014,4,3.5,4,Thorpe429,Kölsch,3.5,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1294315503,4.5,3.5,4,BuckeyeNation,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1293136409,3.5,3.5,4,LilBeerDoctor,Kölsch,3.5,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1289849417,3.5,3,4,VoiceOfTheSoul,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1282940746,4.5,3.5,3.5,smokeypeat,Kölsch,3.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1282695503,3.5,3,4,u2carew,Kölsch,3.5,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1281581380,4.5,4.5,3.5,redzone3120,Kölsch,3.5,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1280784416,5,4,4,Morey,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1280528823,3.5,3.5,3,jrallen34,Kölsch,2.5,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1278804081,4,3.5,3,TheManiacalOne,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1278208789,5,4.5,3,BeefyMee,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1278117971,4.5,4,3.5,pvsob,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1277503424,5,3.5,3.5,Onenote81,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1277492466,3,3.5,3.5,Duhast500,Kölsch,3.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1276438319,4,4.5,4,david18,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1276049693,4.5,3.5,4.5,philbe311,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1275091614,4.5,4,4.5,joepais,Kölsch,4.5,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1274920809,5,4,4.5,dyan,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1274734507,4.5,4,4,generallee,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1274394377,4.5,3.5,4.5,nickd717,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1274233496,4,4.5,4,Jwale73,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1274115523,4.5,3.5,3.5,Kegatron,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273974652,4.5,4,4,david131,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273960252,4,4,4,ChainGangGuy,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273941032,4,3,3.5,Gmann,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273742600,4.5,2.5,3.5,corby112,Kölsch,4.5,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273350814,4.5,4,4,JRed,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273329103,5,4,4,erosier,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273177993,4,4,3.5,plaid75,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1273093084,4.5,3.5,4,Deuane,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1272839774,5,4,5,billshmeinke,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1272823175,5,4,4.5,drtth,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1272682696,4.5,4,4,ClockworkOrange,Kölsch,3.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1272654733,5,3.5,5,Gavage,Kölsch,4,4.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1272128770,3.5,3.5,3.5,smcolw,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1272058751,3,3,3,irishking1977,Kölsch,3.5,3,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1271905345,2.5,3,2.5,northyorksammy,Kölsch,3,2.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1271893341,4,3.5,4,onix1agr,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+806,W.H. Brakspear & Sons plc,1119301308,4,4,4.5,Sigmund,English Bitter,3,4,Live Organic,4.6,12480
+394,Stoudts Brewing Co.,1271648282,4.5,4.5,4,glid02,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1271631941,4.5,4,4,Philabeerphia,Kölsch,4,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1271630729,4,3,4,deereless,Kölsch,4,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1271628240,4.5,4.5,4.5,jwc215,Kölsch,4.5,4,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1271181683,3.5,3.5,4,Pencible,Kölsch,3.5,3.5,Karnival Kolsch,4.8,56453
+394,Stoudts Brewing Co.,1144345429,4.5,4,4,NeroFiddled,American Pale Lager,4,4,White Dog Cafe Leg Lifter Lager,,29677
+806,W.H. Brakspear & Sons plc,1032461328,4.5,5,4,MississaugaMatt,English Pale Ale,4.5,4.5,Ted & Bens Organic Beer,4.6,6137
+806,W.H. Brakspear & Sons plc,1043317210,4.5,4,4.5,Mark,Winter Warmer,5,4,Seasonal Ale,5,8202
+806,W.H. Brakspear & Sons plc,1287161308,4,3.5,4,eric5bellies,English Bitter,3,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1278466404,4.5,3,3.5,MMansfield,English Bitter,4,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1216766747,4.5,4,4,nighthawk,English Bitter,4,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1203653634,3.5,3.5,4,sstackho,English Bitter,3,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1200004520,4,3.5,3,BrewSomerville,English Bitter,4,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1200000866,4.5,3.5,3,bobsy,English Bitter,4,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1198262836,4,4,4,Phyl21ca,English Bitter,3.5,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1197288185,4.5,4,3.5,brendan13,English Bitter,3.5,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1196990747,4,4,4,Mandrake,English Bitter,4,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1196587718,4.5,4,3.5,irishkyle21,English Bitter,4,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1195510964,4.5,4,4,slitherySOB,English Bitter,4.5,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1195446506,5,3,3.5,funkengruven,English Bitter,5,4.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1195258503,4,4,3,biegaman,English Bitter,3.5,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1195173155,5,4,3.5,allergictomacros,English Bitter,4,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1194996053,3,3.5,4,Derek,English Bitter,3.5,3,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1194995779,4,3.5,4,northyorksammy,English Bitter,3,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1194571265,4,4,4,pootz,English Bitter,3.5,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1194492539,4.5,4,4,CAMRAhardliner,English Bitter,4.5,4.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1194236846,4,4,3.5,ThatWineGuy,English Bitter,3.5,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1194025774,2.5,3,4,TerryW,English Bitter,2,3,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1170806326,3,2.5,3,Stephen63,English Bitter,3.5,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1170356748,2.5,2.5,2.5,BlackHaddock,English Bitter,2.5,3,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1157056238,4,3.5,4,wl0307,English Bitter,4.5,4,Live Organic,4.6,12480
+2312,Tenaya Creek Brewery,1230662774,3.5,3,3,Dogbrick,Czech Pilsener,3,3,Tenaya Creek Pilsner,5.2,8407
+806,W.H. Brakspear & Sons plc,1113950891,3.5,4,3,foamer,English Bitter,3.5,3.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1113139478,3,4,3.5,Toddv29424,English Bitter,3,3,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1102105579,4,4,4,GreenCard,English Bitter,3.5,4,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1062616346,4,3.5,4,BSF,English Bitter,3.5,4.5,Live Organic,4.6,12480
+806,W.H. Brakspear & Sons plc,1324595733,3.5,3.5,4,jazzyjeff13,English Pale Mild Ale,3.5,3,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1322759046,3.5,2.5,3.5,grapetonix,English Pale Mild Ale,3,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1322737463,3,3,4,heygeebee,English Pale Mild Ale,2.5,2.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1316104278,4,4,4,anakar,English Pale Mild Ale,4,4.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1314915886,3.5,3.5,4,StJamesGate,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1308504088,4.5,3.5,4.5,woosterbill,English Pale Mild Ale,4,4.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1302806109,3.5,3.5,3,alex667gbg,English Pale Mild Ale,3.5,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1301512374,3.5,3,4,paperwerewolf,English Pale Mild Ale,4,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1299141066,3,3,3.5,wwjb,English Pale Mild Ale,3,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1287706832,4.5,4,3.5,nickd717,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1287155522,4,3.5,4,eric5bellies,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1282655672,4,3.5,3.5,PEIBeerGuy,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1273766924,4.5,4,4.5,FreshHawk,English Pale Mild Ale,4,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1272819038,3.5,3.5,4,rarbring,English Pale Mild Ale,3.5,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1266179227,4,3,2.5,DerBayer,English Pale Mild Ale,3.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1266000869,3.5,3.5,3.5,Sunnanek,English Pale Mild Ale,3.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1259029910,3.5,3.5,3,Long813,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1247952189,3.5,3.5,4,fullsweep,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1246470091,4,3.5,3.5,BlackHaddock,English Pale Mild Ale,4,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1244456248,4.5,3.5,4,IBUnit63,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1241397290,4,3,3,ludachris,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1235784015,3.5,4,5,TheHammer,English Pale Mild Ale,2.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1233432680,4,3.5,4,GodOfBeer,English Pale Mild Ale,3.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1232851150,4,3,3.5,demcorhip,English Pale Mild Ale,3.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1232507033,4,3.5,3.5,ThatWineGuy,English Pale Mild Ale,3.5,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1230607226,4.5,3,4,Viggo,English Pale Mild Ale,4,3,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1230245869,4,3.5,4,CAMRAhardliner,English Pale Mild Ale,3.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1229998005,5,4,3.5,allergictomacros,English Pale Mild Ale,3.5,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1229293285,3.5,3,3.5,TerryW,English Pale Mild Ale,3,3,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1229212566,4,3,3,Derek,English Pale Mild Ale,3.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1229198620,3.5,3,3.5,CanuckRover,English Pale Mild Ale,4,3,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1228826885,4.5,3.5,3.5,Scriba,English Pale Mild Ale,4,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1228677059,3.5,3,3,wl0307,English Pale Mild Ale,3.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1216921192,4,3.5,4,hunteraw,English Pale Mild Ale,3,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1256986241,2,3,2.5,Fizzlybear,English Bitter,4,2,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1204212038,3,4,3,mdagnew,English Pale Mild Ale,3.5,3,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1202413432,4,3.5,3.5,GreenCard,English Pale Mild Ale,4,4,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1200508758,3,3,3,wl0307,English Pale Mild Ale,3.5,3.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1195252163,4.5,4,4,bark,English Pale Mild Ale,4,4.5,Brakspear Oxford Gold,4.6,39631
+806,W.H. Brakspear & Sons plc,1136201311,3.5,3,3.5,wl0307,English Pale Ale,3.5,4,Special,4.3,2573
+806,W.H. Brakspear & Sons plc,1031380062,3.5,3,3,rastaman,English Pale Ale,3,3,Special,4.3,2573
+806,W.H. Brakspear & Sons plc,1018896366,1.5,3,2,jdhilt,English Pale Ale,3,1.5,Special,4.3,2573
+806,W.H. Brakspear & Sons plc,1011360646,5,4,4.5,aunwin,English Pale Ale,4.5,5,Special,4.3,2573
+806,W.H. Brakspear & Sons plc,1244255070,4,3.5,4,Jayli,English Bitter,4,3.5,Shattered & Bitter,4.5,50284
+806,W.H. Brakspear & Sons plc,1244222884,4,3.5,3.5,TheManiacalOne,English Bitter,4,3.5,Shattered & Bitter,4.5,50284
+806,W.H. Brakspear & Sons plc,1287160844,3,3,3,eric5bellies,English Pale Ale,3,3.5,English Pale Ale (EPA),4.2,40507
+806,W.H. Brakspear & Sons plc,1063737840,4.5,3.5,4,oberon,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1243327225,4,3.5,4,mdagnew,English Pale Ale,3.5,3.5,English Pale Ale (EPA),4.2,40507
+806,W.H. Brakspear & Sons plc,1231630422,4,3.5,4.5,jarmby1711,English Pale Ale,4,4,English Pale Ale (EPA),4.2,40507
+806,W.H. Brakspear & Sons plc,1199989657,4,3.5,4,wl0307,English Pale Ale,3.5,3.5,English Pale Ale (EPA),4.2,40507
+806,W.H. Brakspear & Sons plc,1324106834,3.5,3.5,3,heygeebee,English Bitter,3,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1320806741,3.5,4,4,opalchemist,English Bitter,3.5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1319134034,3.5,3.5,4,EmperorBevis,English Bitter,3.5,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1317044223,3.5,4,4,flyingpig,English Bitter,3.5,3,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1315057875,2,2,4,anakar,English Bitter,2,2,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1062071160,3,3.5,3,ImperialScott,English Bitter,3,3,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1312993528,4,4,3.5,stjaernstoft,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1312575619,3.5,3.5,4,BedetheVenerable,English Bitter,4,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1310777745,4.5,4.5,4,drperm,English Bitter,5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1298852933,3.5,3.5,4,jazzyjeff13,English Bitter,3.5,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1297959219,5,4.5,5,marquis,English Bitter,4.5,4.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1285842908,3,2.5,2,CrazyDavros,English Bitter,3,2.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1281268179,3.5,3.5,3.5,brendan13,English Bitter,3.5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1271989721,3.5,3.5,3,pootz,English Bitter,2.5,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1262120504,4,3,4,ReDave,English Bitter,3,2.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1255208755,4,4,4,Kristing,English Bitter,3.5,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1250717936,3,3.5,3.5,fullsweep,English Bitter,3,2.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1250457908,3,3.5,3.5,charlatan,English Bitter,3.5,3,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1244664489,3.5,3,4,TerryW,English Bitter,3,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1224237198,2.5,4,4,velkyal,English Bitter,3,3,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1222370441,3.5,3,3.5,Phyl21ca,English Bitter,3,3,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1221184597,4.5,3.5,3.5,Viggo,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1220492041,4.5,4,4,CAMRAhardliner,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1219127366,4.5,3.5,4.5,Bananaman,English Bitter,4,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1218921626,3.5,4,3.5,shamus,English Bitter,3.5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1218910250,4,4,4,CanuckRover,English Bitter,4.5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1218421094,3.5,2.5,3.5,northyorksammy,English Bitter,3.5,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1282272254,3.5,4.5,3.5,StephenRich,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1217813161,3,3,4,biegaman,English Bitter,3,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1217036774,5,4.5,4.5,allergictomacros,English Bitter,4.5,4.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1196117382,3.5,3.5,3.5,Daredevil,English Bitter,3,3,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1189800787,4.5,4,4,Jonte,English Bitter,3.5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1186138386,4.5,4,4,mdagnew,English Bitter,3.5,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1184958314,4,4,4,BlackHaddock,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1181334003,4,3.5,4,Hammarby,English Bitter,3.5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1179653139,3,3.5,3.5,JanM,English Bitter,2,2,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1179333474,3.5,4,4,GreenCard,English Bitter,3.5,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1168568692,5,4.5,4.5,Chaz,English Bitter,4.5,4.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1163714104,4,3,3.5,Sigmund,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1146913018,4.5,4,4,bark,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1144116547,3.5,3,4,wl0307,English Bitter,4,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1105656568,4,4,4,twelvsies,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1102392939,4.5,3.5,4,UncleJimbo,English Bitter,4.5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1093633756,3.5,4,3,RoyalT,English Bitter,3.5,3.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1092099354,3.5,4,3,necoadam,English Bitter,3,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1069099525,5,4,3.5,cokes,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1066273625,4.5,3,4,Stopper,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1057297316,4.5,4,4,PatandDavid,English Bitter,4.5,4.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1057238294,4.5,3.5,4,CharlesRiver,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1045523190,4,3,3,aracauna,English Bitter,3.5,3,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1040193554,4,3.5,3.5,Gusler,English Bitter,3.5,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1031163967,5,4,3,Jason,English Bitter,4,4.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1028875128,5,4,4.5,marc77,English Bitter,4,4.5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1023631563,3.5,3.5,3.5,Bierman9,English Bitter,4,4,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1015011114,5,4,5,MississaugaMatt,English Bitter,5,5,Brakspear Bitter,3.4,4064
+806,W.H. Brakspear & Sons plc,1325202037,4.5,4.5,4,EmperorBevis,English Strong Ale,4.5,4.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1316341345,4,4,4.5,dansmcd,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1281506424,4,4.5,4,cratez,English Strong Ale,4.5,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1277574250,5,4.5,4.5,biegaman,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1310946202,4,4,3.5,jazzyjeff13,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1310318679,3.5,3.5,4,liamt07,English Strong Ale,3,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1307225504,3.5,4,4,jrenihan,English Strong Ale,3,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1299958501,3,4,4,jonb5,English Strong Ale,3,3,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1299469206,4,4,4.5,ritzkiss,English Strong Ale,3.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1297469822,3.5,3,3.5,MeisterBurger,English Strong Ale,4,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1297207049,3.5,4,4,peensteen,English Strong Ale,3.5,3.5,Triple,7.2,24419
+1264,TBonz Gill & Grill,1131593094,4,3.5,3.5,JISurfer,Hefeweizen,3,3.5,TBonz Hefe,,26855
+806,W.H. Brakspear & Sons plc,1296272227,4,4,3.5,paxkey,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1295892707,3.5,3.5,4,bryehn,English Strong Ale,3.5,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1295644035,4,4,3.5,Zimbo,English Strong Ale,3.5,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1293800322,4,4,4.5,spinrsx,English Strong Ale,3.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1292028897,4,4,3,Seanstoppable,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1287154299,4.5,4.5,4,eric5bellies,English Strong Ale,4.5,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1286931556,4.5,3.5,4.5,Swedes21,English Strong Ale,4,4.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1285478948,4.5,4,4.5,spointon,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1276569880,3.5,4,4.5,JohnnyBarman,English Strong Ale,3.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1275689527,5,4,4.5,kwjd,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1274978536,4,4,4,thierrynantes,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1270588868,3,3,4.5,mjgarrett2,English Strong Ale,4.5,4.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1268169450,3.5,4.5,3.5,FreshHawk,English Strong Ale,3.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1260391132,3.5,4,4,rvdoorn,English Strong Ale,3.5,3,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1255729001,3,3.5,3.5,DerBayer,English Strong Ale,3,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1244122792,3,4,3,soulgrowl,English Strong Ale,3.5,3,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1232913488,4.5,4,4,BitterLover,English Strong Ale,4,4.5,Triple,7.2,24419
+1264,TBonz Gill & Grill,1093128234,3,3.5,3.5,claytri,American Pale Wheat Ale,4,3.5,TBonz Market Street Wheat,,17565
+806,W.H. Brakspear & Sons plc,1227822386,4.5,3.5,4.5,BlackHaddock,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1225616619,4.5,4,4,wl0307,English Strong Ale,4,4.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1214425695,2.5,4.5,3.5,Antilochus,English Strong Ale,3,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1203902443,3.5,3.5,4,sstackho,English Strong Ale,3.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1202852816,3.5,4.5,4,DaveUK,English Strong Ale,4,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1201716346,4,4,4.5,nine05,English Strong Ale,3.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1200000745,4,3.5,3.5,bobsy,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1199844519,4,3.5,4,grub,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1199471207,3.5,4,3.5,Phyl21ca,English Strong Ale,3.5,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1198358591,4,4.5,4,Viggo,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1198198789,3,3.5,4,Derek,English Strong Ale,3.5,3.5,Triple,7.2,24419
+81,Heineken Nederland B.V.,1097277725,3.5,2,3.5,Backer2004,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+806,W.H. Brakspear & Sons plc,1198111103,4.5,4,3,CanuckRover,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1198013486,3.5,3.5,3.5,northyorksammy,English Strong Ale,3.5,3,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1197766504,3.5,4,4.5,CAMRAhardliner,English Strong Ale,3.5,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1197678060,3.5,4,3.5,pootz,English Strong Ale,4,4.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1196153746,3.5,3,3.5,belgbeerdrinker,English Strong Ale,3.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1191136418,4,4,4,irishkyle21,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1175115312,3.5,4,3.5,Stephen63,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1174038655,3.5,4,3.5,JohnfromDublin,English Strong Ale,4,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1172388284,4,4,4,cypressbob,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1163714373,4.5,4.5,5,Sigmund,English Strong Ale,4.5,4,Triple,7.2,24419
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1257120923,4,4.5,4,FACEMEAT,Lambic - Unblended,4.5,5,Hakusekikan Shizen Bakushu,5.5,50364
+806,W.H. Brakspear & Sons plc,1157469900,3.5,3.5,3.5,haz77,English Strong Ale,4,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1155139239,4,4,5,Naerhu,English Strong Ale,4,4.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1149323561,3.5,4,5,UnionMade,English Strong Ale,4.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1143938526,3.5,4,3.5,RichLightweight,English Strong Ale,3,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1142802128,4,4,4,MaldonGold,English Strong Ale,3.5,3.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1137840632,4,4,4,GreenCard,English Strong Ale,3.5,4,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1136807561,4,4,3.5,mdagnew,English Strong Ale,3.5,4.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1120077732,3,3.5,3,BSF,English Strong Ale,2.5,2.5,Triple,7.2,24419
+806,W.H. Brakspear & Sons plc,1117835029,2,2.5,2,jimbotrost,English Pale Ale,2.5,2,Henley Ale,,24068
+806,W.H. Brakspear & Sons plc,1064544755,4,3.5,3,rastaman,English Pale Ale,4,4,Brakspear Hooray Henley,4.6,12969
+806,W.H. Brakspear & Sons plc,1133447147,4.5,4,3.5,GusterFan,English Pale Ale,3.5,4,Vintage Henley,5.5,4102
+806,W.H. Brakspear & Sons plc,1087172227,4,4.5,5,gentlebubbles,English Pale Ale,4,4.5,Vintage Henley,5.5,4102
+806,W.H. Brakspear & Sons plc,1050498590,4,4,4,tavernjef,English Pale Ale,4.5,4,Vintage Henley,5.5,4102
+806,W.H. Brakspear & Sons plc,1048440914,4.5,4,3.5,Jason,English Pale Ale,5,4,Vintage Henley,5.5,4102
+806,W.H. Brakspear & Sons plc,1042369607,2,2.5,3,stcules,English Pale Ale,2,2.5,Vintage Henley,5.5,4102
+806,W.H. Brakspear & Sons plc,1031394607,5,4,4.5,Shiredave,English Pale Ale,4,4.5,Vintage Henley,5.5,4102
+806,W.H. Brakspear & Sons plc,1027326088,3.5,3.5,4.5,John,English Pale Ale,4.5,3.5,Vintage Henley,5.5,4102
+806,W.H. Brakspear & Sons plc,1026041716,4,4,4,Wildman,English Pale Ale,3.5,4,Vintage Henley,5.5,4102
+806,W.H. Brakspear & Sons plc,1129174824,4.5,4,4.5,cubedbee,American Porter,4.5,4,Brakspear Vintage Ale 1999,5.5,4569
+806,W.H. Brakspear & Sons plc,1073948326,4.5,4.5,4,UnionMade,American Porter,5,4,Brakspear Vintage Ale 1999,5.5,4569
+806,W.H. Brakspear & Sons plc,1062554887,3,3,3,jcalabre,American Porter,2.5,3,Brakspear Vintage Ale 1999,5.5,4569
+806,W.H. Brakspear & Sons plc,1049398798,2,2,2.5,TXHops,American Porter,2.5,2,Brakspear Vintage Ale 1999,5.5,4569
+806,W.H. Brakspear & Sons plc,1046099774,4.5,4.5,4.5,Gusler,American Porter,3.5,4.5,Brakspear Vintage Ale 1999,5.5,4569
+12334,Schloderer Bräu,1128803430,4.5,4,4,Bierman9,Märzen / Oktoberfest,4,4.5,Schloderer Oktoberfest,,26274
+1264,TBonz Gill & Grill,1072674445,4,3,4,JISurfer,Winter Warmer,3,3.5,Tbonz Winterfest Ale,,15119
+1264,TBonz Gill & Grill,1190506518,3,3.5,3.5,Backer2004,American Amber / Red Ale,3.5,3,TBonz Cooper River Red,,20545
+1264,TBonz Gill & Grill,1099161045,3,2.5,3,brentk56,American Amber / Red Ale,3,3,TBonz Cooper River Red,,20545
+1264,TBonz Gill & Grill,1197999687,3,2.5,3,czfreeman,Witbier,2,2.5,TBonz New South White,,20544
+1264,TBonz Gill & Grill,1190506101,3.5,3,2.5,Backer2004,Witbier,3,2.5,TBonz New South White,,20544
+1264,TBonz Gill & Grill,1099160492,3,2.5,3,brentk56,Witbier,3,3,TBonz New South White,,20544
+1264,TBonz Gill & Grill,1079395647,3.5,4,4.5,JISurfer,Irish Dry Stout,3.5,4,Tbonz Irish Stout,,16566
+1264,TBonz Gill & Grill,1068359761,5,4.5,4,JISurfer,Pumpkin Ale,4,4.5,Smashing Pumpkin Ale,,14043
+1264,TBonz Gill & Grill,1072675239,4,3.5,5,JISurfer,Oatmeal Stout,4,4.5,Tbonz Mocha Oatmeal Stout,,15120
+1264,TBonz Gill & Grill,1099160727,3,2.5,3,brentk56,Märzen / Oktoberfest,3.5,3,TBonz Octoberfest,,13251
+1264,TBonz Gill & Grill,1068437736,4,4,3.5,JISurfer,Märzen / Oktoberfest,3.5,4,TBonz Octoberfest,,13251
+1264,TBonz Gill & Grill,1065404611,4,3,3.5,Shiloh,Märzen / Oktoberfest,3.5,4,TBonz Octoberfest,,13251
+1264,TBonz Gill & Grill,1197998852,3,3,3,czfreeman,American Brown Ale,3,3,TBonz Nut Brown Ale,,17489
+1264,TBonz Gill & Grill,1190506714,4,2.5,2.5,Backer2004,American Brown Ale,3.5,4,TBonz Nut Brown Ale,,17489
+1264,TBonz Gill & Grill,1141446966,3,3.5,3.5,jameaterblues,American Brown Ale,3.5,4,TBonz Nut Brown Ale,,17489
+1264,TBonz Gill & Grill,1099161289,3.5,3.5,3,brentk56,American Brown Ale,3.5,3,TBonz Nut Brown Ale,,17489
+1264,TBonz Gill & Grill,1084510099,3.5,3.5,2.5,JISurfer,American Brown Ale,3,3,TBonz Nut Brown Ale,,17489
+1264,TBonz Gill & Grill,1190506261,3.5,3.5,3.5,Backer2004,American Blonde Ale,3.5,3.5,TBonz Blond Bombshell,,38762
+1264,TBonz Gill & Grill,1067667959,4,4,3,rugirl4u,Fruit / Vegetable Beer,3,4,TBonz Raspberry Wheat,,3413
+1264,TBonz Gill & Grill,1060504446,4.5,4.5,3,JISurfer,Fruit / Vegetable Beer,3.5,4,TBonz Raspberry Wheat,,3413
+1264,TBonz Gill & Grill,1019131407,3,3,2.5,frank4sail,Fruit / Vegetable Beer,2.5,3,TBonz Raspberry Wheat,,3413
+1264,TBonz Gill & Grill,1019130993,4,3.5,4,frank4sail,American IPA,4,3.5,TBonz IPA,,3412
+1264,TBonz Gill & Grill,1099159952,3,3,2.5,brentk56,American Pale Wheat Ale,2.5,3,TBonz Market Street Wheat,,17565
+1264,TBonz Gill & Grill,1084850998,4.5,3.5,3.5,JISurfer,American Pale Wheat Ale,3,4,TBonz Market Street Wheat,,17565
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1323190053,4,4,4,shivtim,American Barleywine,4,4,Hakusekikan Hurricane,15,25242
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1296733807,4.5,4.5,4,basica,American Barleywine,4,4.5,Hakusekikan Hurricane,15,25242
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1268654529,4,5,4,jeranbrews,American Barleywine,4,4,Hakusekikan Hurricane,15,25242
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1209914292,4,4,3.5,hoegaardenhero,American Barleywine,4,4.5,Hakusekikan Hurricane,15,25242
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1164049921,4,4,4,crwills,American Barleywine,5,4,Hakusekikan Hurricane,15,25242
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1123915162,2,3,4.5,Naerhu,American Barleywine,2,3,Hakusekikan Hurricane,15,25242
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1119687422,4,4,3.5,UncleJimbo,Smoked Beer,3.5,4,Hakusekikan Smoke Ale,5,24374
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1246455175,3.5,4,4,bobsy,Belgian Strong Pale Ale,4,3,Hakusekikan Crystal Ale,10,10516
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1212093979,4,3.5,3,theetruscan,Belgian Strong Pale Ale,4.5,4.5,Hakusekikan Crystal Ale,10,10516
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1056143117,5,4.5,4,UncleJimbo,Belgian Strong Pale Ale,5,4.5,Hakusekikan Crystal Ale,10,10516
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1058348654,4.5,3.5,4,feloniousmonk,English Pale Ale,3.5,4,Hakusekikan Pale Ale,5,10580
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1056328001,4,4,4,UncleJimbo,English Pale Ale,4,4,Hakusekikan Pale Ale,5,10580
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1056218121,4.5,4.5,4,UncleJimbo,Belgian Strong Dark Ale,4.5,4.5,Hakusekikan Brown Ale,8,10542
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1224079522,4,3,4,bobsy,Witbier,4,2.5,Hakusekikan White Ale,,45372
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1056142638,4.5,3.5,4,UncleJimbo,English Barleywine,4.5,4.5,Hakusekikan Barley Wine,14.5,10515
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1314073031,3.5,3.5,3,UCLABrewN84,Lambic - Unblended,4,4,Hakusekikan Shizen Bakushu,5.5,50364
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1310970362,3.5,3.5,4,augustgarage,Lambic - Unblended,4,4,Hakusekikan Shizen Bakushu,5.5,50364
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1286587787,4.5,4.5,4,slayer3604,Lambic - Unblended,3.5,4.5,Hakusekikan Shizen Bakushu,5.5,50364
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1274160071,4,4,4,Mora2000,Lambic - Unblended,4,4,Hakusekikan Shizen Bakushu,5.5,50364
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1263159214,4.5,4,4,Halcyondays,Lambic - Unblended,4,4.5,Hakusekikan Shizen Bakushu,5.5,50364
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1107400629,5,3.5,3,Naerhu,Hefeweizen,3,4,Hakusekikan Niwa Weisse - Shizen Beer,5,10483
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1056014920,4.5,4,4.5,UncleJimbo,Hefeweizen,4,4,Hakusekikan Niwa Weisse - Shizen Beer,5,10483
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1309142193,4.5,4.5,4,wisecracka,American Barleywine,4,4.5,Hakusekikan Super Vintage,14.3,25241
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1246455811,4.5,4.5,4.5,bobsy,American Barleywine,4.5,4.5,Hakusekikan Super Vintage,14.3,25241
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1244516891,4,4,4,northyorksammy,American Barleywine,3.5,3.5,Hakusekikan Super Vintage,14.3,25241
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1229050425,4,5,4.5,miketd,American Barleywine,4,4.5,Hakusekikan Super Vintage,14.3,25241
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1203023234,4,3.5,4,ChainGangGuy,American Barleywine,3.5,4,Hakusekikan Super Vintage,14.3,25241
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1125638290,2.5,2,3.5,JackieTreehorn,American Barleywine,2,2,Hakusekikan Super Vintage,14.3,25241
+3704,"Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",1123914665,2,2,3,Naerhu,American Barleywine,2,2,Hakusekikan Super Vintage,14.3,25241
+3991,St. Peters Brewery (Australia),1287278690,3,3,2.5,tobeerornottobe,Irish Dry Stout,3,3,Killagh Stout,5,43958
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1246840146,4,4,3.5,johnmichaelsen,American IPA,4,4,Fish On! IPA,6.4,1058
+3991,St. Peters Brewery (Australia),1257752603,4,4,3.5,lacqueredmouse,Irish Dry Stout,4,3.5,Killagh Stout,5,43958
+3991,St. Peters Brewery (Australia),1252655205,3.5,3.5,3.5,vancurly,Irish Dry Stout,3.5,4,Killagh Stout,5,43958
+3991,St. Peters Brewery (Australia),1216952400,4,3.5,4,laituegonflable,Irish Dry Stout,4,3.5,Killagh Stout,5,43958
+3991,St. Peters Brewery (Australia),1252733110,4,4,4,lacqueredmouse,Herbed / Spiced Beer,4,4.5,Cinnamon Girl,5,52570
+3991,St. Peters Brewery (Australia),1252732998,4,4,4,laituegonflable,Herbed / Spiced Beer,3.5,3.5,Cinnamon Girl,5,52570
+3991,St. Peters Brewery (Australia),1202695118,1.5,1.5,1.5,laituegonflable,American Blonde Ale,2,2,St. Peters Blonde,,40954
+3991,St. Peters Brewery (Australia),1087562353,1.5,1.5,1.5,rastaman,English Pale Ale,1,1.5,St. Peters Festival Ale,5,18025
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1244760942,4,3.5,3.5,shivtim,American IPA,2.5,4,Fish On! IPA,6.4,1058
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1211905091,3,2.5,3,Doostin82,American IPA,3,2.5,Fish On! IPA,6.4,1058
+3991,St. Peters Brewery (Australia),1290663840,3.5,2.5,4,lacqueredmouse,Euro Pale Lager,3.5,2,Green Star Lager,5,61989
+16036,Taberna De La Muralla,1184384683,3,3.5,4,allergictomacros,Schwarzbier,3.5,3,Negra,,37680
+16036,Taberna De La Muralla,1184384188,4,3.5,4,allergictomacros,English Pale Ale,3,3.5,Oscura,,37679
+16036,Taberna De La Muralla,1184383613,4,3,3,allergictomacros,Euro Pale Lager,3,3.5,Clara,,37677
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1247784765,4.5,4.5,4,ccrida,Belgian IPA,4.5,4.5,Belgian IPA,7.5,50886
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1246663106,4.5,4,4,johnmichaelsen,Belgian IPA,4,4,Belgian IPA,7.5,50886
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1183675982,4.5,4,4,richcap,Hefeweizen,4,4,Susitna Hefeweizen,5,29427
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1288507179,3,4.5,3.5,dragonWhale,American IPA,2.5,3,Fish On! IPA,6.4,1058
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1280559075,4,4,3.5,jsprain1,American IPA,4,4,Fish On! IPA,6.4,1058
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1261687515,4,4,4,woodychandler,American IPA,4,4,Fish On! IPA,6.4,1058
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1288551836,3,3,3.5,dragonWhale,Belgian Strong Dark Ale,3.5,3.5,ODB Belgian Barley Wine,,63051
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1314564175,3,3.5,4,jmdrpi,American Porter,3,3.5,Portage Porter,5.2,1059
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1136773191,4,3,3,Kirby,American Porter,4,3.5,Portage Porter,5.2,1059
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1020602978,4,4,4,beernut7,American Porter,3.5,3,Portage Porter,5.2,1059
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1215108041,4,4.5,4.5,juzy,Herbed / Spiced Beer,3,4,Espresso Bock,6.5,39061
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1252881292,4,3,3.5,juzy,Saison / Farmhouse Ale,4,4,Indian Spiced Saison,,52611
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1219106099,3.5,3.5,3,ClavisAurea,Scottish Ale,3,3.5,Braveheart Scottish Ale,6.5,1060
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1149732929,5,4,4.5,erikjon,Scottish Ale,4,4,Braveheart Scottish Ale,6.5,1060
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1020602566,4,4.5,4,beernut7,Scottish Ale,4,4.5,Braveheart Scottish Ale,6.5,1060
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1265265448,4.5,4,4,ccrida,American Double / Imperial IPA,4,4,Leviathan Double IPA,8.5,39062
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1020672591,5,4,4,beernut7,American Blonde Ale,4.5,4,Gold Rush Golden Ale,4.1,1057
+21333,Nova Paka Brewery,1296767820,3.5,5,4.5,emsroth,Euro Dark Lager,3,3,BrouCzech Dark,,65888
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1247785197,2,2.5,3,ccrida,Berliner Weissbier,3,2,Berliner Weisse,,50849
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1247361477,5,4,4.5,AKBelgianBeast,Berliner Weissbier,4.5,4.5,Berliner Weisse,,50849
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1246630551,4.5,4.5,4.5,johnmichaelsen,Berliner Weissbier,4,4,Berliner Weisse,,50849
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1296201312,5,4,4.5,Donnie2112,English Pale Ale,4,4.5,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1248827772,5,4,3.5,drgonzo3705,English Pale Ale,4,4,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1232932921,4.5,4.5,4.5,YeastBreeder,English Pale Ale,4,4.5,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1223749125,4,3.5,4,gford217,English Pale Ale,3.5,4,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1223274491,5,5,4.5,NoonanDBarbarian,English Pale Ale,4,4,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1219525436,3.5,3,3.5,tayner,English Pale Ale,3,3.5,Urban Wilderness Pale Ale,4.9,3595
+81,Heineken Nederland B.V.,1090285905,3,2,3.5,DrJay,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1199844949,4.5,4,4,AKBelgianBeast,English Pale Ale,4,4,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1198707452,4,3.5,3.5,SargeC,English Pale Ale,3.5,4,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1165457728,4,3.5,3.5,swid,English Pale Ale,3.5,4,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1162519094,4,3.5,3.5,Dukeofearl,English Pale Ale,4,3.5,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1116451948,4.5,3.5,3.5,NeroFiddled,English Pale Ale,4.5,4.5,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1020602409,4.5,4.5,4.5,beernut7,English Pale Ale,4.5,5,Urban Wilderness Pale Ale,4.9,3595
+381,Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company,1232392773,5,5,5,YeastBreeder,American Barleywine,5,5,Old Gander Barley Wine,9.5,29423
+21333,Nova Paka Brewery,1295776150,3.5,2,3,pinkano,Euro Strong Lager,3.5,3.5,Podkrkonoský Speciál,6.3,58011
+21333,Nova Paka Brewery,1291990892,3.5,3.5,3.5,metter98,Munich Dunkel Lager,3.5,3.5,Podkrkonoský Speciál Tmavý,6.3,58012
+21333,Nova Paka Brewery,1280232580,3.5,3.5,3.5,travis224,Munich Dunkel Lager,3,3.5,Podkrkonoský Speciál Tmavý,6.3,58012
+21333,Nova Paka Brewery,1324685834,4,4.5,4,bartleby1,Czech Pilsener,4,4.5,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1320895928,3.5,3.5,3.5,JohnnyChicago,Czech Pilsener,3,3,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1301622971,2,2,3,vfgccp,Czech Pilsener,3,2,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1298691817,3,3.5,4,metter98,Czech Pilsener,3,3,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1295922486,3,3,3.5,crossovert,Czech Pilsener,4,3,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1295301193,3.5,4,3.5,Mosstrooper,Czech Pilsener,3.5,3.5,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1291957366,4,2.5,3,CHickman,Czech Pilsener,3,2.5,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1289360050,3.5,3.5,4,decimator,Czech Pilsener,3.5,3.5,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1285139251,3.5,4,4,rtepiak,Czech Pilsener,3.5,3.5,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1272842065,2.5,2,2,Metalmonk,Czech Pilsener,2.5,2.5,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1271891784,2.5,3,4,hegelec,Czech Pilsener,3.5,2.5,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1270054687,2.5,4,4.5,emsroth,Czech Pilsener,2,3,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1257126496,4.5,3.5,3.5,KTCamm,Czech Pilsener,4,4,BrouCzech Lager (Brou&#269;ek Beer),5,53857
+21333,Nova Paka Brewery,1295620157,4,3.5,4,metter98,Euro Dark Lager,3.5,3.5,Granát - BrouCzech Dark,5,58010
+21333,Nova Paka Brewery,1282759256,4,4,4,Bierman9,Euro Dark Lager,3.5,4,Granát - BrouCzech Dark,5,58010
+21333,Nova Paka Brewery,1320893905,4,3.5,4,JohnnyChicago,Euro Dark Lager,3.5,4,BrouCzech Dark,,65888
+21333,Nova Paka Brewery,1313709117,3.5,4,3,OttoPeeWee,Euro Dark Lager,3.5,3.5,BrouCzech Dark,,65888
+21333,Nova Paka Brewery,1301369061,4,4,4,vfgccp,Euro Dark Lager,3,4,BrouCzech Dark,,65888
+21333,Nova Paka Brewery,1298243613,4,4.5,3.5,crossovert,Euro Dark Lager,4,4,BrouCzech Dark,,65888
+20810,Vilkmerg&#279;s Alus,1250191028,3.5,3.5,3.5,atis,Euro Pale Lager,3,3.5,Vilkmerg&#279;s Gyvasis (Live),5,51847
+20810,Vilkmerg&#279;s Alus,1250191436,4,3.5,4.5,atis,Euro Pale Lager,3.5,3.5,Vilkmerg&#279;s I Statin&#279;s (From The Barrel),5.2,51848
+20810,Vilkmerg&#279;s Alus,1250190797,2,3,2.5,atis,Munich Dunkel Lager,3.5,2.5,Vilkmerg&#279;s Tamsusis (Vilkmerges Dark),6,51846
+81,Heineken Nederland B.V.,1317912654,2.5,2.5,2.5,ThaCreep,Doppelbock,2.5,1,Royal Club 10.5,10.5,73834
+81,Heineken Nederland B.V.,1120426029,2.5,1.5,2.5,TPSReports,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1120005669,5,4.5,4.5,miko,Euro Pale Lager,4.5,5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1118885267,3.5,2,1.5,MuddyFeet,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1118368046,4,2,3,feloniousmonk,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1118355035,4,2.5,3,cooter,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1118266909,3.5,2.5,2.5,MikeT,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1117429497,1,1.5,2.5,BrewMaven,Euro Pale Lager,1.5,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1117340553,3,2,2,ommegangpbr,Euro Pale Lager,3.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1117293080,1.5,1.5,2.5,beeroclock,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1116993493,2.5,1.5,2.5,kbnooshay,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1115973425,5,4,3,malysz7,Euro Pale Lager,4,5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1115861209,3.5,3.5,4,rousee,Euro Pale Lager,4,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1114991987,3,2.5,3,BigBry,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1114839708,4,2,2,ypsifly,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1114009896,4,4,3.5,kbub6f,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1113446023,3,3.5,3.5,scaliasux,Euro Pale Lager,2,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1113433859,3,3,3.5,Suzilla,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1100233236,2.5,2.5,2.5,iheartsheafstout,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1113124261,4.5,4.5,4,Toddv29424,Euro Pale Lager,4.5,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1113116222,3.5,3,3,Luigi,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1112030000,3,2.5,3.5,Vancer,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1111827774,3,2.5,2.5,taez555,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1111553184,2,2,3,JeffTibbetts,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1111115100,4,2,2.5,bceaglejoe,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1110171225,2.5,2.5,3,claytri,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1109981301,3,1.5,2,Wonka,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1109792951,1,1,2,dren,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1109743595,3,2.5,3,rowew,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1109650171,2.5,1.5,2,bearrunner44,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1108733791,4,3,3,BeerNutta,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1108271109,2.5,2,2.5,lacqueredmouse,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1106240994,3.5,3.5,4,marburg,Euro Pale Lager,4,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1106023281,2.5,2.5,2.5,Barraclou,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1105918064,1.5,1.5,2,NEhophead,Euro Pale Lager,3,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1105154154,2,2.5,3,HardTarget,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1104890428,3.5,2,2,JohnnyBeer,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1103585235,3,2,4,sulldaddy,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1103419403,3.5,3,3.5,FormatKid,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1103318448,3,2,3,NolanGTI,Euro Pale Lager,1.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1102616180,4,4,4,surfmeister,Euro Pale Lager,3.5,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1102576178,3,3,3,twi1609372,Euro Pale Lager,2,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1102556098,3.5,2.5,4,TheDeuce,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1102471161,3.5,2,3,Gagnonsux,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1102396370,2,4,3.5,Fleetdog,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1102102663,3.5,2.5,3,necoadam,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1101101771,3,2,3,BigRedN,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1100140075,3,2,2,bigbeerdrinka,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1100125569,3,3.5,3.5,Saccian,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1100063760,2,2,2,walleye,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1099976352,3,2,3,connecticutpoet,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1099763184,4.5,3.5,3.5,Tang07,Euro Pale Lager,4,4.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1099259537,4.5,3,3,belgian4ever,Euro Pale Lager,3.5,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1099235770,3,3,2.5,bonbright7,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1099182720,4,2.5,2.5,UDbeernut,Euro Pale Lager,4,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1098036663,3.5,2.5,2.5,mynie,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1097762170,3.5,3,4,pixrob,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1095459974,3,2.5,2.5,jvajda,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1094494403,2.5,2.5,3,lackenhauser,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1093976050,3,3,2.5,John1985,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1093975804,3,3.5,3.5,Bierman9,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1093314114,2.5,2.5,2.5,chilidog,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1093303882,2,3,3,kmpitz2,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1091378822,3,2,3,Gusler,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1091335536,2.5,2,2,theozag,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1091260242,3,2.5,3,steinlifter,Euro Pale Lager,2,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1090787818,3.5,3,3,mynie,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1090786399,2.5,2.5,3,3Vandoo,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1090088239,2.5,3,3.5,ZAP,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1089674661,3,3,3,LarryWilliams,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1089592571,2.5,1.5,3,arizcards,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1089348506,3,3,2.5,bignick,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1089259498,3,3,3,RedwoodGeorge,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1088375769,3.5,2.5,3,aquatonex,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1088226420,3,2.5,3,TagoMago,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1087957164,2,1.5,2,koolk,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1086428998,2.5,2,2,LagerFiend,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1086185634,3,2.5,2.5,ngandhi,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1085449195,2.5,3,3,BeerManDan,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1080709256,3.5,3,3,Joey7F,Euro Pale Lager,3.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1084844412,2,2.5,2.5,Bierguy5,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1083986864,3,2,1.5,GreenWBush,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1083613182,1.5,1.5,1.5,NJpadreFan,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1083221619,4,2,3.5,cptnjck101,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1083206589,4,3,2.5,maek228,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1083036988,2,1.5,2,skaughty,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1081903821,4,4,3,Dogbrick,Euro Pale Lager,4,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1081674010,3,2.5,3,Dmann,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1081393972,3.5,2,2.5,pheurton,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1081224644,3,2,2.5,watermelonman,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1081180645,2.5,1,1.5,Phyl21ca,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1081113514,3,2.5,3.5,brewQ,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1080704386,2.5,2,2.5,RocketWidget,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1080534798,4,2,3,fdrich29,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1080453322,4,2.5,2.5,Jacobob10,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1080356730,3,2,3.5,landonh,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1080082188,1.5,1.5,3,mschofield,Euro Pale Lager,1.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1079591947,3.5,3.5,3,BeerSki,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1079582186,3.5,3.5,3,jsolack,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1303697980,3.5,3,2.5,philbertk,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1303626699,2.5,1,2,Mertzy,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1303602180,3,3.5,3,MichaelLynBryant,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1303175021,1,2.5,2.5,chicagoabbot,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1302836493,2.5,2,3,secondtooth,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1302494485,3,2.5,3,evlu1441,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1302187796,2.5,2,3,flyingpig,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1301804050,1,1,1,chugalug06,Euro Pale Lager,2.5,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1301339471,3,2.5,2,SassyBootblack,Euro Pale Lager,4,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1300946021,2.5,2,4,boudreaux,Euro Pale Lager,4,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1079535695,2.5,2,3,Foxman,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1079467281,3.5,3,2.5,kmo1030,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1078755852,2.5,2,2,JoEBoBpr,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1047052691,1.5,1.5,2,slitherySOB,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1078674188,2.5,2.5,2.5,rdrummer,Euro Pale Lager,2,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1078612660,3,3,2.5,rajendra82,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1078463893,3.5,3,2,jwilli7122,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1078195427,4,2,2,Billolick,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1077160846,3,3.5,3,Zorro,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1076904424,3,3,3,BuckeyeNation,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1076552697,3,2.5,3,ALESwhatCURESya,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1076528557,2,1.5,2,wsouloa,Euro Pale Lager,2,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1076458816,3,3,3,TastyTaste,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1076357970,3,1.5,3,bierfly,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1075749315,2,2,3.5,JCBears,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1075521308,2.5,2.5,3,CharlesRiver,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1075063831,1.5,2,4,merlin48,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1074982845,3,3.5,3,WesWes,Euro Pale Lager,4,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1074788981,3.5,2,3,ChrisBowers,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1074771484,3,3,3.5,donnebaby,Euro Pale Lager,2,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1074728320,3,2.5,2.5,Gavage,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1073881374,3,2.5,2.5,JustLovinBeer,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1072820443,2.5,2.5,2.5,ViveLaChouffe,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1072406518,2.5,3.5,3,bhoffman681,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1072343783,2,2,2,UnionMade,Euro Pale Lager,1.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1072010235,3.5,3.5,3,mwrseeley,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1021104309,3,1,2.5,AaronRed,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1071993884,3,3.5,3,joecast,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1071680309,3,3,3,Globetrotter,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1071367720,2.5,2.5,2.5,neg007,Euro Pale Lager,1.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1071007924,3,2,3,Rootdog316,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1070566183,1.5,2,1.5,DrunkMcDermott,Euro Pale Lager,1.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1070287225,3.5,2,2,Nectar,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1069800884,2.5,2,2.5,Charthepirate,Euro Pale Lager,1.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1069647543,3,2,2.5,JohnnyDuvel,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1069476388,4,3.5,3,ngandhi,Euro Pale Lager,3.5,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1069086586,2.5,2.5,2,ThistleKing,Euro Pale Lager,1.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1068954444,1,2,2.5,JustLovinBeer,Euro Pale Lager,1,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1068823024,3,1.5,3,diablo14,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1068781363,2,1.5,2,Globetrotter,Euro Pale Lager,2.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1068474497,1.5,1,4,Darkale,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1067375197,1.5,1.5,2,TastyTaste,Euro Pale Lager,1.5,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1067018717,3,3,3,maxpower,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1066974615,2.5,2,2.5,jasonhender,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1066782730,2.5,1,3,BigPapaLager,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1066070971,3,2.5,3,cokes,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1066033258,3,3,3,flaminghomer,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1066007610,2.5,2,2.5,SepticDeath,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1065729453,2,2,2,CBFanWish,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1065620812,3,3,3,grynder33,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1065615787,2.5,1.5,3,ImperialScott,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1064791950,3,2.5,3.5,Suds,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1064764446,3,2,3,PiratePete,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1064625524,2.5,3,3,Ellbert,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1064279133,2.5,1,2,BeerShark,Euro Pale Lager,1.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1064278010,1.5,1.5,2,BanditTA,Euro Pale Lager,1.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1063862966,3.5,2.5,3,foofightingfrog,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1063142940,3.5,3.5,3.5,bierman2000,Euro Pale Lager,4,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1063142691,3,2.5,4,UncleAl,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1062808401,2.5,2,2.5,freed,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1062785503,2,1.5,3,BearJohnson,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1062095021,1.5,2,2.5,kindestcut,Euro Pale Lager,2.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1062006378,2.5,3,2,Boilermaker88,Euro Pale Lager,2,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1061965724,3,2,3,sardonic,Euro Pale Lager,2,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1061943844,2.5,1,2,RoyalT,Euro Pale Lager,1.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1061907217,2,2,3,chaduvel,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1061514978,2,2,2.5,beerguy101,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1061426172,4,3.5,3,marcobrau,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1061169796,2.5,3,3,SeanChouffe,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1060975774,3.5,2,3,clvand0,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1059973410,2,1.5,2,SetarconeX,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1059852345,3,3,3,KroMagnon,Euro Pale Lager,2,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1059778005,2.5,3,4,palliko,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1059749746,3,1.5,2,ssbeer,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1059696422,1,2,3,stegmakk,Euro Pale Lager,2,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1059354880,1,1.5,2,Stingray5,Euro Pale Lager,2,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1059164860,3.5,2.5,3,brewdlyhooked13,Euro Pale Lager,4,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1058406296,2.5,3,2.5,ecoboy,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1057963150,2,2,2.5,PLG,Euro Pale Lager,1.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1057915259,2,1.5,1.5,99bottles,Euro Pale Lager,1.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1057692045,3,3,3,Indybeer,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1056189315,2.5,1.5,2.5,Beastdog75,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1056137835,4,3,3,far333,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1056128023,3,2.5,3,IronDjinn,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1055971701,3.5,3.5,4,robhudson,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1055622031,3,2,3,DESTRO,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1055240016,1.5,1,3,euskera,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1054897405,2,1,2,Edwin,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1054391124,1.5,2,3,Deliteru,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1054219669,3,2.5,3,Redrover,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1054151276,3.5,2.5,2.5,slitherySOB,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1053292818,1,1,3,Loki,Euro Pale Lager,2.5,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1053210116,3.5,2.5,2.5,Reidrover,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1052153046,3.5,3.5,3.5,francisweizen,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1051707103,3.5,3.5,3.5,francisweizen,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1051601050,5,3.5,5,Mitchster,Euro Pale Lager,5,4.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1051355612,2.5,1.5,3,Andreji,Euro Pale Lager,1.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1051308734,3,3,3,Tballz420,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1048391776,2.5,2.5,3,AtLagerHeads,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1048351815,3.5,2,3,BeerResearcher,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1048246176,2,1.5,2.5,Running4beer,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1021098632,3,2,2.5,dual1246,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1047798200,3,3.5,4,pezoids,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1300849538,2,2,4.5,Avagadro,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1300749876,2.5,1.5,2.5,IronCitySteve,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1300578018,3,2,3,blackcrow911,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1300561518,3.5,3,3,dmfrench,Euro Pale Lager,4,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1300526044,2.5,2,2.5,Cozzatoad,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1300479135,3,2,2,obrike,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1300061997,3.5,2.5,3.5,negroobserver,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1299900574,2,3,3,buschbeer,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1299587934,2.5,2,2,heebes,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1299533661,4,3.5,3.5,oldp0rt,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1047576862,2.5,2.5,3.5,LarryKemp,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1046111865,1.5,1,2.5,mickstepp,Euro Pale Lager,2,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1045173251,2.5,1.5,2.5,Admiraldinty,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1044978292,4,3,3,beerluvr,Euro Pale Lager,4,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1044336645,3,3,3,francisweizen,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1043851468,4,3.5,4,texascarl,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1043582788,2,2,2,SubPop77,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1043173257,3.5,3,2.5,BitteBier,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1042812252,3,2,2.5,allboutbierge,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1042495163,3,2.5,2.5,UncleJimbo,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1042207987,2,1.5,3,mikes2923,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1041866525,3,3,2.5,Rifrafboy,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1041685647,3,2,2.5,guinness33,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1041681950,2.5,2,2.5,JISurfer,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1041671555,3.5,3,3,jtw5877,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1041089788,3.5,2.5,2.5,shirfan,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1041037454,4,1.5,2,WVbeergeek,Euro Pale Lager,1.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1041020804,2,2,3.5,Naerhu,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1040285007,2,1.5,2.5,poopstheclown,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1040067919,2,2,2,mikejmadden,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1038870305,3,3,3,Morris729,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1038827912,4,4.5,3,AtrumAnimus,Euro Pale Lager,3,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1038030956,3,3,2.5,CharlesRiver,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1036994112,2.5,3,3,ipogios,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1036610636,2.5,2.5,2.5,Shiloh,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1020462160,2.5,2.5,3,mickeymac,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1035663210,3.5,2.5,3.5,yen157,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1034802185,2.5,2,2,MaineBeerMan,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1034320884,3,3,3,bewareOFpenguin,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1033320565,4.5,4,3.5,tang214,Euro Pale Lager,4,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1033294202,4,3.5,4,putnam,Euro Pale Lager,4,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1031769124,2.5,2.5,2.5,bditty187,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1030813697,1.5,2,2,BeerAngel,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1030798711,1.5,2,3,dpend,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1030250241,3.5,3,3,jahsausage,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1029275670,2,1,2.5,Lupe,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1028618452,3,2.5,2,ryanocerus,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1028584483,3,3,4,barbarian,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1028015861,2.5,2.5,3,MTMugs,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1026371072,2.5,1.5,2.5,zerk,Euro Pale Lager,3,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1026314044,3,2.5,3,ElGuapo,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1025699522,2,2,2,Dogbrick,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1025633965,3,2.5,3,ElGuapo,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1025325554,3,2.5,2.5,goindownsouth,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1024569813,2,2,2,ThreePistols,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1023824934,3,2.5,3,Jason,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1023295742,1.5,1.5,3,BeerBob,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1022480573,3,2.5,3,inebrius,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1022184308,2.5,2,3,psugrad98,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1021807338,3,2.5,3,ADR,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1021493445,2.5,2,3,Pegasus,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1021313482,3,1,1,EagleTalon,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1021123143,2.5,1,2,Wildman,Euro Pale Lager,2,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1020458660,3,1.5,2.5,Monk11,Euro Pale Lager,1.5,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1019913190,2,2,2,aracauna,Euro Pale Lager,2.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1019730269,2.5,2.5,2.5,proc,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1019281387,2.5,2.5,2,bmills1608,Euro Pale Lager,2,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1018988165,2.5,2.5,3,frank4sail,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1018982392,2.5,2.5,2.5,IrishRedRock,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1018557135,2,2,2.5,jackndan,Euro Pale Lager,1.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1017346086,2.5,2.5,3,marc77,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1017338221,3,3,2,budgood1,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1016202358,3,3,3,WilliamPhilaPa,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1015935760,4,3.5,3,Jordan,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1013888907,2,1.5,2,rastaman,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1013799042,3,2,3,fodeeoz,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1013592937,2,1.5,2.5,fdoosey,Euro Pale Lager,2,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1013258285,2.5,2,3,mophie,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1011086014,2.5,1.5,2.5,John,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1299211706,3,3,3,Everydayoff,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1299010348,3,2,4,Brunite,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1298935849,3.5,3,2.5,jmvecchio1,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1298276315,2,2,2,ehammond1,Euro Pale Lager,3,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1298039317,3,2.5,3,brunrn1,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1297908640,3.5,2,2.5,kflorence,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1297735786,1,1,2,papsdatank,Euro Pale Lager,1.5,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1297721211,3,2,2,SteelerNation,Euro Pale Lager,3.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1297665812,3,3,4,Mosstrooper,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1166331601,3,1,3,GeneralZod,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1297618793,4,2.5,4,MillRat,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1297579884,3,2,2,alleykatking,Euro Pale Lager,1.5,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1297282476,3.5,3,3,iSip,Euro Pale Lager,3.5,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1296996041,3,2.5,3,dbaker61,Euro Pale Lager,3,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1296863217,3.5,2,4.5,BeanBone,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1296670500,3,2.5,2.5,CuriousMonk,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1296620405,3.5,2.5,2.5,welldigger888,Euro Pale Lager,4,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1296450431,2,2,2.5,comfortablynumb1,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1296011720,3.5,2.5,3,kingcrowing,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1295645984,3,3,3,mdunman,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1295503616,1,1,3,Satchboogie,Euro Pale Lager,2,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1295318369,4,3,3,Luckyboy81,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1295220214,3,2.5,3,mvanaskie13,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1295213640,4,1,2,robhunta,Euro Pale Lager,4,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1294890940,4,2.5,2.5,thebrood1987,Euro Pale Lager,2.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1294878546,4,2,3,dotsonjamesg,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1294840279,1,1.5,2,emiricius,Euro Pale Lager,2,1.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1294801659,3.5,2.5,2.5,cambabeer,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1294795351,2.5,2,2,scottfrie,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1294628061,3,2.5,2,bierschmecktgut,Euro Pale Lager,2,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1294029525,3,3,2.5,beertunes,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293927306,3.5,2,3,jeeper2000,Euro Pale Lager,1.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293861499,3.5,2,2,Distilled10,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293671243,4,4,3,wmtxbb,Euro Pale Lager,3,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293668329,2.5,2.5,3,depechemode1983,Euro Pale Lager,3.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293667639,3,3.5,2,jsdunlop,Euro Pale Lager,3,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293649292,4,3,4,weizenbob,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293567659,5,3.5,3,mandarin,Euro Pale Lager,4,4,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293508938,3.5,2.5,3,Hopfenpeter,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1289579881,1,1,2,JayS2629,Euro Pale Lager,2.5,1,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293501817,3,2.5,2.5,Matt1516,Euro Pale Lager,2.5,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293372032,1.5,1.5,1.5,Bricelyn,Euro Pale Lager,2.5,2,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1293228022,3,2.5,4,Beerbluesbiology,Euro Pale Lager,3.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1292911931,3.5,2.5,3,perrymarcus,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1292798320,3.5,2.5,3,ElijahCSkuggs,Euro Pale Lager,3.5,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1292561428,4,3.5,3.5,ronniebruner,Euro Pale Lager,4,3.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1292392404,4,2.5,2.5,bboelens,Euro Pale Lager,3,3,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1291169684,3,2,3,dogfishandi,Euro Pale Lager,2.5,2.5,Heineken Lager Beer,5,246
+81,Heineken Nederland B.V.,1291017807,4,3,3,Arkofsax,Euro Pale Lager,2.5,4,Heineken Lager Beer,5,246
