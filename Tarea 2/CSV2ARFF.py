@@ -40,6 +40,7 @@ def products(FILE):
 def matrix(FILE):
 	matrix = []
 	MSET = products(FILE)
+	FILE.seek(0)
 	for line in FILE:
 		line = line.strip().split(',')
 		vector = []
