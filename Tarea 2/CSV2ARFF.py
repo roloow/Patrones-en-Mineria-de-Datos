@@ -48,7 +48,7 @@ def matrix(FILE):
 			if product in line:
 				vector.append('1')
 			else:
-				vector.append('0')
+				vector.append('?')
 		matrix.append(vector)
 	return (matrix, MSET)
 #   FUNCTION_EXPLANATION
@@ -74,7 +74,7 @@ def create_arff(FILE, OUTNAME):
 	f = open(FILENAME, 'w')
 	f.write('@RELATION ' + OUTNAME.lower() + '\n\n')
 	for product in MSET:
-		f.write("@ATTRIBUTE '" + product + "' NUMERIC\n")
+		f.write("@ATTRIBUTE '" + product + "' {1}\n")
 	f.write('\n@DATA\n')
 	for vector in MATRIX:
 		f.write( ','.join(vector) + '\n')
