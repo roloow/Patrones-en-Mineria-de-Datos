@@ -1,0 +1,181 @@
+@RELATION groceries
+
+@ATTRIBUTE 'artif. sweetener' NUMERIC
+@ATTRIBUTE 'cake bar' NUMERIC
+@ATTRIBUTE 'sliced cheese' NUMERIC
+@ATTRIBUTE 'baby cosmetics' NUMERIC
+@ATTRIBUTE 'fruit/vegetable juice' NUMERIC
+@ATTRIBUTE 'margarine' NUMERIC
+@ATTRIBUTE 'chicken' NUMERIC
+@ATTRIBUTE 'canned fruit' NUMERIC
+@ATTRIBUTE 'misc. beverages' NUMERIC
+@ATTRIBUTE 'ham' NUMERIC
+@ATTRIBUTE 'whipped/sour cream' NUMERIC
+@ATTRIBUTE 'pickled vegetables' NUMERIC
+@ATTRIBUTE 'cling film/bags' NUMERIC
+@ATTRIBUTE 'flower soil/fertilizer' NUMERIC
+@ATTRIBUTE 'sugar' NUMERIC
+@ATTRIBUTE 'tropical fruit' NUMERIC
+@ATTRIBUTE 'jam' NUMERIC
+@ATTRIBUTE 'white bread' NUMERIC
+@ATTRIBUTE 'rice' NUMERIC
+@ATTRIBUTE 'softener' NUMERIC
+@ATTRIBUTE 'organic products' NUMERIC
+@ATTRIBUTE 'coffee' NUMERIC
+@ATTRIBUTE 'make up remover' NUMERIC
+@ATTRIBUTE 'dessert' NUMERIC
+@ATTRIBUTE 'tidbits' NUMERIC
+@ATTRIBUTE 'frozen vegetables' NUMERIC
+@ATTRIBUTE 'male cosmetics' NUMERIC
+@ATTRIBUTE 'nut snack' NUMERIC
+@ATTRIBUTE 'sparkling wine' NUMERIC
+@ATTRIBUTE 'ketchup' NUMERIC
+@ATTRIBUTE 'canned beer' NUMERIC
+@ATTRIBUTE 'diapersbread' NUMERIC
+@ATTRIBUTE 'meat' NUMERIC
+@ATTRIBUTE 'frozen meals' NUMERIC
+@ATTRIBUTE 'candy' NUMERIC
+@ATTRIBUTE 'frozen chicken' NUMERIC
+@ATTRIBUTE 'pork' NUMERIC
+@ATTRIBUTE 'specialty bar' NUMERIC
+@ATTRIBUTE 'tea' NUMERIC
+@ATTRIBUTE 'fish' NUMERIC
+@ATTRIBUTE 'semi-finished bread' NUMERIC
+@ATTRIBUTE 'house keeping products' NUMERIC
+@ATTRIBUTE 'rolls/buns' NUMERIC
+@ATTRIBUTE 'root vegetables' NUMERIC
+@ATTRIBUTE 'canned fish' NUMERIC
+@ATTRIBUTE 'prosecco' NUMERIC
+@ATTRIBUTE 'sauces' NUMERIC
+@ATTRIBUTE 'brown bread' NUMERIC
+@ATTRIBUTE 'rubbing alcohol' NUMERIC
+@ATTRIBUTE 'dog food' NUMERIC
+@ATTRIBUTE 'instant coffee' NUMERIC
+@ATTRIBUTE 'condensed milk' NUMERIC
+@ATTRIBUTE 'skin care' NUMERIC
+@ATTRIBUTE 'specialty fat' NUMERIC
+@ATTRIBUTE 'white wine' NUMERIC
+@ATTRIBUTE 'detergent' NUMERIC
+@ATTRIBUTE 'dish cleaner' NUMERIC
+@ATTRIBUTE 'seasonal products' NUMERIC
+@ATTRIBUTE 'frozen fruits' NUMERIC
+@ATTRIBUTE 'yogurt' NUMERIC
+@ATTRIBUTE 'liquor (appetizer)' NUMERIC
+@ATTRIBUTE 'rum' NUMERIC
+@ATTRIBUTE 'beverages' NUMERIC
+@ATTRIBUTE 'diapers' NUMERIC
+@ATTRIBUTE 'bottled beer' NUMERIC
+@ATTRIBUTE 'bathroom cleaner' NUMERIC
+@ATTRIBUTE 'grapes' NUMERIC
+@ATTRIBUTE 'pasta' NUMERIC
+@ATTRIBUTE 'long life bakery ' NUMERIC
+@ATTRIBUTE 'Instant food products' NUMERIC
+@ATTRIBUTE 'vinegar' NUMERIC
+@ATTRIBUTE 'c' NUMERIC
+@ATTRIBUTE 'female sanitary products' NUMERIC
+@ATTRIBUTE 'flower (seeds)' NUMERIC
+@ATTRIBUTE 'herbs' NUMERIC
+@ATTRIBUTE 'hamburger meat' NUMERIC
+@ATTRIBUTE 'baby food' NUMERIC
+@ATTRIBUTE 'newspapers' NUMERIC
+@ATTRIBUTE 'finished products' NUMERIC
+@ATTRIBUTE 'hair spray' NUMERIC
+@ATTRIBUTE 'hard cheese' NUMERIC
+@ATTRIBUTE 'kitchen towels' NUMERIC
+@ATTRIBUTE 'soda' NUMERIC
+@ATTRIBUTE 'popcorn' NUMERIC
+@ATTRIBUTE 'red/blush wine' NUMERIC
+@ATTRIBUTE 'diapersproduct' NUMERIC
+@ATTRIBUTE 'liqueur' NUMERIC
+@ATTRIBUTE 'abrasive cleaner' NUMERIC
+@ATTRIBUTE 'canned vegetables' NUMERIC
+@ATTRIBUTE 'chewing gum' NUMERIC
+@ATTRIBUTE 'pet care' NUMERIC
+@ATTRIBUTE 'toilet cleaner' NUMERIC
+@ATTRIBUTE 'nuts/prunes' NUMERIC
+@ATTRIBUTE 'turkey' NUMERIC
+@ATTRIBUTE 'salty snack' NUMERIC
+@ATTRIBUTE 'cream cheese ' NUMERIC
+@ATTRIBUTE 'beef' NUMERIC
+@ATTRIBUTE 'butter milk' NUMERIC
+@ATTRIBUTE 'chocolate marshmallow' NUMERIC
+@ATTRIBUTE 'specialty vegetables' NUMERIC
+@ATTRIBUTE 'packaged fruit/vegetables' NUMERIC
+@ATTRIBUTE 'liquor' NUMERIC
+@ATTRIBUTE 'pip fruit' NUMERIC
+@ATTRIBUTE 'cream cheese' NUMERIC
+@ATTRIBUTE 'specialty cheese' NUMERIC
+@ATTRIBUTE 'chocolate' NUMERIC
+@ATTRIBUTE 'snack products' NUMERIC
+@ATTRIBUTE 'cookware' NUMERIC
+@ATTRIBUTE 'roll products ' NUMERIC
+@ATTRIBUTE 'cat food' NUMERIC
+@ATTRIBUTE 'kitchen utensil' NUMERIC
+@ATTRIBUTE 'UHT-milk' NUMERIC
+@ATTRIBUTE 'liver loaf' NUMERIC
+@ATTRIBUTE 'whisky' NUMERIC
+@ATTRIBUTE 'whole milk' NUMERIC
+@ATTRIBUTE 'cooking chocolate' NUMERIC
+@ATTRIBUTE 'pot plants' NUMERIC
+@ATTRIBUTE 'syrup' NUMERIC
+@ATTRIBUTE 'meat spreads' NUMERIC
+@ATTRIBUTE 'citrus fruit' NUMERIC
+@ATTRIBUTE 'napkins' NUMERIC
+@ATTRIBUTE 'potato products' NUMERIC
+@ATTRIBUTE 'candles' NUMERIC
+@ATTRIBUTE 'zwieback' NUMERIC
+@ATTRIBUTE 'frozen dessert' NUMERIC
+@ATTRIBUTE 'cleaner' NUMERIC
+@ATTRIBUTE 'cereals' NUMERIC
+@ATTRIBUTE 'sweet spreads' NUMERIC
+@ATTRIBUTE 'frozen potato products' NUMERIC
+@ATTRIBUTE 'curd cheese' NUMERIC
+@ATTRIBUTE 'frankfurter' NUMERIC
+@ATTRIBUTE 'honey' NUMERIC
+@ATTRIBUTE 'curd' NUMERIC
+@ATTRIBUTE 'pastry' NUMERIC
+@ATTRIBUTE 'sound storage medium' NUMERIC
+@ATTRIBUTE 'decalcifier' NUMERIC
+@ATTRIBUTE 'onions' NUMERIC
+@ATTRIBUTE 'other vegetables' NUMERIC
+@ATTRIBUTE 'roll products' NUMERIC
+@ATTRIBUTE 'cream' NUMERIC
+@ATTRIBUTE 'bags' NUMERIC
+@ATTRIBUTE 'cocoa drinks' NUMERIC
+@ATTRIBUTE 'specialty chocolate' NUMERIC
+@ATTRIBUTE 'processed cheese' NUMERIC
+@ATTRIBUTE 'waffles' NUMERIC
+@ATTRIBUTE 'baking powder' NUMERIC
+@ATTRIBUTE 'organic sausage' NUMERIC
+@ATTRIBUTE 'ice cream' NUMERIC
+@ATTRIBUTE 'flour' NUMERIC
+@ATTRIBUTE 'mayonnaise' NUMERIC
+@ATTRIBUTE 'bottled water' NUMERIC
+@ATTRIBUTE 'soap' NUMERIC
+@ATTRIBUTE 'hygiene articles' NUMERIC
+@ATTRIBUTE 'oil' NUMERIC
+@ATTRIBUTE 'mustard' NUMERIC
+@ATTRIBUTE 'ready soups' NUMERIC
+@ATTRIBUTE 'shopping bags' NUMERIC
+@ATTRIBUTE 'sausage' NUMERIC
+@ATTRIBUTE 'long life bakery product' NUMERIC
+@ATTRIBUTE 'brandy' NUMERIC
+@ATTRIBUTE 'soft cheese' NUMERIC
+@ATTRIBUTE 'butter' NUMERIC
+@ATTRIBUTE 'salad dressing' NUMERIC
+@ATTRIBUTE 'dental care' NUMERIC
+@ATTRIBUTE 'spices' NUMERIC
+@ATTRIBUTE 'dishes' NUMERIC
+@ATTRIBUTE 'soups' NUMERIC
+@ATTRIBUTE 'brown ' NUMERIC
+@ATTRIBUTE 'light bulbs' NUMERIC
+@ATTRIBUTE 'photo/film' NUMERIC
+@ATTRIBUTE 'frozen fish' NUMERIC
+@ATTRIBUTE 'preservation products' NUMERIC
+@ATTRIBUTE 'pudding powder' NUMERIC
+@ATTRIBUTE 'berries' NUMERIC
+@ATTRIBUTE 'salt' NUMERIC
+@ATTRIBUTE 'spread cheese' NUMERIC
+@ATTRIBUTE 'domestic eggs' NUMERIC
+
+@DATA
