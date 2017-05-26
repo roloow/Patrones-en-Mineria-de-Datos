@@ -47,3 +47,7 @@ Podemos encontrar todos los clusters que utilizaremos en [esta](http://scikit-le
 |DBScan |[Ir a la documentación](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN)|
 |HAC Completo (*AgglomerativeClustering - linkage: Complete*) |[Ir a la documentación](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)|
 |Ward (*AgglomerativeClustering - linkage: Ward*) |[Ir a la documentación](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)|
+
+## Tarea 2
+
+Basado en los mismos principios de la tarea 1, utilizaremos un DataSet "groceries" el cual se encuentra en la carpeta como una extensión (.csv) para poder realizar su análisis se utiliza un [Weka](http://www.cs.waikato.ac.nz/ml/weka/), sin embargo esta aplicación lee archivos (.arff) para ello creamos un conversor de csv a arff.
