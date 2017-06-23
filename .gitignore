@@ -1,1 +1,6 @@
 [Bb]eer_reviews
+*.dat
+*.sh
+*.train
+*.test
+*.pl
