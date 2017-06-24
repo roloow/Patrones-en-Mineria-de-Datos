@@ -49,6 +49,15 @@ def read_datasets(sc, mode=None):
 #   Open Datasets and returns them into python variables
 #--------------------------------------------
 
+#--------------------------------------------
+#            read_file
+#--------------------------------------------
+#   FUNCTION_IN_PARAMETERS_DEFINITION
+#	filename:		string path of file
+#
+#   FUNCTION_OUT_PARAMETERS_DEFINITION
+#   out:    list of tuples with (int,int,float)
+#   FUNCTION_CODING
 def read_file(filename):
 	file_ = open(filename)
 	data = list()
@@ -56,7 +65,21 @@ def read_file(filename):
 		line = line.strip().split("::")
 		data.append((int(line[0]), int(line[1]), float(line[2])))
 	return data
+#   FUNCTION_EXPLANATION
+#   Suitable function to read training and test
+#	files and return then in order to parallelize
+#	in RDD format
+#--------------------------------------------
 
+#--------------------------------------------
+#            read_ratings
+#--------------------------------------------
+#   FUNCTION_IN_PARAMETERS_DEFINITION
+#	sc:		spark context object
+#
+#   FUNCTION_OUT_PARAMETERS_DEFINITION
+#   out:    tuple of tuples
+#   FUNCTION_CODING
 def read_ratings(sc):
 	train1 = sc.parallelize(read_file("DataSets/SplitData/r1.train"))
 	train2 = sc.parallelize(read_file("DataSets/SplitData/r2.train"))
@@ -72,18 +95,51 @@ def read_ratings(sc):
 	test = (test1, test2, test3, test4, test5)
 	ratings = (train, test)
 	return ratings
+#   FUNCTION_EXPLANATION
+#   After reading and using read_file function
+#	this creates an RDD format object of each
+#	rating sub archive
+#--------------------------------------------
 
-
-def system_train(ratings, rank, lambda_=0.01):
+#--------------------------------------------
+#            system_train
+#--------------------------------------------
+#   FUNCTION_IN_PARAMETERS_DEFINITION
 #	ratings:	RDD of Rating or (userID, productID, rating) tuple.
 #	rank:		Rank of the feature matrices computed (number of features).
 #	lambda:		Regularization parameter. (default: 0.01)
+#
+#   FUNCTION_OUT_PARAMETERS_DEFINITION
+#   out:    trained model
+#   FUNCTION_CODING
+def system_train(ratings, rank, lambda_=0.01):
 	model = ALS.train(ratings, rank=rank, lambda_=lambda_, seed=0)
 	return model
+#   FUNCTION_EXPLANATION
+#   Creates an ALS machine learning model with
+#	certain parameters of training
+#--------------------------------------------
 
+#--------------------------------------------
+#            re_train
+#--------------------------------------------
+#   FUNCTION_IN_PARAMETERS_DEFINITION
+#	model:		ALS model
+#	ratings:	RDD of Rating or (userID, productID, rating) tuple.
+#	rank:		Rank of the feature matrices computed (number of features).
+#	lambda:		Regularization parameter. (default: 0.01)
+#
+#   FUNCTION_OUT_PARAMETERS_DEFINITION
+#   out:    trained model
+#   FUNCTION_CODING
 def re_train(model, data, rank, lambda_=0.01):
 	model.train(data, rank=rank, lambda_=lambda_, seed=0)
 	return model
+#   FUNCTION_EXPLANATION
+#   Using an already created ALS model, re train
+# 	the model using a diferent dataset
+#--------------------------------------------
+
 
 if __name__ ==  "__main__":
 	sc = spark_init()
@@ -110,3 +166,4 @@ if __name__ ==  "__main__":
 
 			results = open("Results/results.dat", "a")
 			results.write('rank:'+str(rank)+' lambda:'+str(lambda_)+' RMSE:'+str(RMSE))
+			results.close()
