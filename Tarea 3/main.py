@@ -74,13 +74,16 @@ def read_ratings(sc):
 	return ratings
 
 
-def system_train(sc, ratings, rank, lambda_=0.01):
+def system_train(ratings, rank, lambda_=0.01):
 #	ratings:	RDD of Rating or (userID, productID, rating) tuple.
 #	rank:		Rank of the feature matrices computed (number of features).
 #	lambda:		Regularization parameter. (default: 0.01)
 	model = ALS.train(ratings, rank=rank, lambda_=lambda_, seed=0)
 	return model
 
+def re_train(model, data, rank, lambda_=0.01):
+	model.train(data, rank=rank, lambda_=lambda_, seed=0)
+	return model
 
 if __name__ ==  "__main__":
 	sc = spark_init()
@@ -95,7 +98,11 @@ if __name__ ==  "__main__":
 
 	for rank in ranks:
 		for lambda_ in lambdas:
-			model = system_train(sc, tr1, rank, lambda_)
+			model = system_train(tr1, rank, lambda_)
+			model = re_train(model, tr2, rank, lambda_)
+			model = re_train(model, tr3, rank, lambda_)
+			model = re_train(model, tr4, rank, lambda_)
+			model = re_train(model, tr5, rank, lambda_)
 			predict = model.predictAll(ts1.map(lambda gp: (gp[0], gp[1]))).map(lambda res: (res[2]))
 			validation = ts1.map(lambda real: (real[2]))
 			union = validation.join(predict)
@@ -103,4 +110,3 @@ if __name__ ==  "__main__":
 
 			results = open("Results/results.dat", "a")
 			results.write('rank:'+str(rank)+' lambda:'+str(lambda_)+' RMSE:'+str(RMSE))
-	
