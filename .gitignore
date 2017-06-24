@@ -1,6 +1,6 @@
 [Bb]eer_reviews
-*.dat
-*.sh
+movies.dat
+ratings.dat
+tags.dat
 *.train
 *.test
-*.pl
